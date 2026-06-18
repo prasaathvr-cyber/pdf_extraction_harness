@@ -1,0 +1,689 @@
+{
+  "pdf": "Ginsberg_2015.pdf",
+  "extraction_date": "2026-05-27T18:30:47.145022",
+  "total_pages": 9,
+  "text": [
+    "ORIGINAL CONTRIBUTION\n\nLong-Term Treatment Outcome in Adult Male Prisoners With Attention-Deficit/Hyperactivity Disorder\nThree-Year Naturalistic Follow-Up of a 52-Week Methylphenidate Trial\n\nYlva Ginsberg, MD, PhD,*† Niklas Långström, MD, PhD,†\nHenrik Larsson, PhD,† and Nils Lindefors, MD, PhD*\n\nAbstract: Despite high rates of attention-deficit/hyperactivity disorder (ADHD) among adult lawbreakers, particularly the long-term effects of ADHD pharmacotherapy remain unclear, not the least because of ethical challenges with preventing control subjects in randomized controlled trials from receiving medication over prolonged time. We followed up adult male prisoners with ADHD who completed a 5-week randomized, double-blind, placebo-controlled trial followed by a 47-week open-label extension of osmotic-release oral system methylphenidate in a Swedish high-security prison from 2007 to 2010 (ClinicalTrials.gov: NCT00482313). Twenty-five trial completers were prospectively followed up clinically 1 year (24/25, 96% participated fully or in part) and 3 years (20/25, 80% participation) after trial regarding ADHD symptoms (observer and self-reports), psychosocial functioning, substance misuse, and criminal reoffending. Methylphenidate-related improvements in ADHD symptoms and psychosocial functioning obtained during the 52-week trial were maintained at 1- and 3-year follow-ups. Specifically, after 3 years, 75% (15/20) of the respondents had been released from prison, and 67% of these (10/15) had employment, usually full time. In contrast, nonmedicated respondents at the 3-year follow-up (5/20) reported more ADHD symptoms, functional impairment, and substance misuse compared with currently medicated respondents (15/20). Further, 40% of the respondents self-reported reoffending, indicating a substantially lower relapse rate than expected (70%–80%).\n\nIn summary, although these observations need validation from new and larger samples, positive effects were maintained after 4 years of methylphenidate treatment. Most study completers were employed and had no relapse in substance misuse or criminality. These results suggest that motivational support and continued medication are important for improved outcome in adult criminal offenders with ADHD.\n\nKey Words: attention-deficit/hyperactivity disorder, stimulants, criminal offenders, reoffending, long-term outcome\n\n(J Clin Psychopharmacol 2015;35: 535–543)\n\nAttention-deficit/hyperactivity disorder (ADHD) is a prevalent and highly heritable neuropsychiatric disorder with childhood onset and at least partial persistence into adulthood in about 65% of cases.1 Attention-deficit/hyperactivity disorder in adults is associated with adverse outcomes in many domains including education, work, driving, self-esteem, social skills, obesity, substance misuse, and use of health care and social services.2 First, epidemiological studies indicate a substantially increased ADHD prevalence among prisoners (25%–45%) compared with the general adult population (2%–5%).3,4 Second, ADHD with or without concomitant conduct disorder, substance use, and antisocial personality disorder (ASPD) increases the risk of criminal offending.5–8 Third, criminal offenders with ADHD might be more difficult and expensive to manage and rehabilitate, likely related not only to earlier onset of criminality, higher recidivism rates, more frequent and severe intrainstitutional aggression, but also to psychiatric comorbidities including personality and substance use disorders (SUDs).9\n\nMethylphenidate is a first-line treatment for children and adults with moderate or severe ADHD.10 Most pharmacological trials were conducted with children, demonstrating short-term efficacy in improving ADHD core symptoms. However, more recent clinical trials have also confirmed short-term efficacy of stimulants and atomoxetine on ADHD in adults.11,12 Importantly, despite high rates of cooccurring psychiatric disorders in adults with ADHD, these trials regularly excluded individuals with coexistent disorders, substance misuse, and criminality.13,14 Longer-term effects and safety from medication treatment also remain uncertain. Hence, most importantly, clinical trials and naturalistic follow-up studies should address effectiveness and safety of ADHD medication also in these patients with multiple disadvantages.2,11,15 Methylphenidate pharmacotherapy for criminal offenders had, in fact, not been evaluated until recently.16 However, evaluating enduring effects of ADHD medication is challenging because of varying availability and continuity, including transition from child and adolescent psychiatry to adult services, as well as differences in the quality of services. Furthermore, the motivation of antisocial ADHD patients to participate in interventions may fluctuate substantially; discontinuation rates are high, resulting in variable treatment duration, and concomitant medication and coexistent psychopathology may confound or modify treatment responses.2,11,15,17,18 Finally, there are important ethical considerations related to withholding medication from control subjects in randomized controlled trials (RCTs) over prolonged periods.\n\nRecent studies suggest that current treatments reduce the negative impact of ADHD on adult global functioning including a substantial reduction of criminality.2,19 We evaluated long-term outcomes for adult male prisoners with ADHD and coexistent disorders in a prospective naturalistic follow-up performed 1 and 3 years after completion of a previously reported 52-week methylphenidate trial conducted in a Swedish high-security prison.16,20 We hypothesized that treatment gains observed during the initial 52-week trial would be maintained in subjects with continued ADHD medication at follow-up.\n\nMATERIALS AND METHODS\n\nSubjects\n\nAll 25 adult male prisoners that provided end point data in the 52-week trial were defined as completers and eligible to\n\nFrom the *Division of Psychiatry, Department of Clinical Neuroscience, and †Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.\nReceived February 3, 2015; accepted after revision July 7, 2015.\nReprints: Ylva Ginsberg, MD, PhD, Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Box 281, SE-171 77 Stockholm, Sweden (e-mail: ylva.ginsberg@ki.se).\nCopyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.\nISSN: 0271-0749\nDOI: 10.1097/JCP.0000000000000395\n\nJournal of Clinical Psychopharmacology • Volume 35, Number 5, October 2015 www.psychopharmacology.com | 535\n\nCopyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.",
+    "participate in this follow-up study. Sociodemographic and diagnostic characteristics at baseline are provided in Table 1.\n\nStudy Design and Treatment Intervention\n\nFull details of the diagnostic assessments and study design were reported previously.16,20,21 Figure 1 provides a flowchart of the 52-week clinical trial and naturalistic follow-ups.\n\nBriefly, the original study was the first RCT to evaluate efficacy and safety of osmotic release oral system (OROS)-methylphenidate in prisoners with ADHD (NCT00482313). The trial was conducted in 2007 to 2010 in a Swedish high-security prison for adult, male, longer-term inmates convicted almost exclusively for violent or drug-related offenses. The Ethical Board of Stockholm and the Swedish Medical Products Agency (MPA) approved the trial and the naturalistic posttrial follow-ups. The 52-week trial was independently monitored by the Karolinska Trial Alliance and inspected by the Swedish MPA to ensure adherence to Good Clinical Practice and the Declaration of Helsinki.\n\nAfter a comprehensive diagnostic evaluation (n = 34), 30 inmates diagnosed with ADHD received a thorough description of the study and provided informed consent for participation. Participating inmates were severely symptomatic and functionally impaired with high rates of coexistent psychiatric disorders (Table 1).\n\nThe 52-week trial comprised an initial 5-week randomized, double-blind, placebo-controlled, fixed-dose (72 mg daily) phase followed by a 47-week open-label extension during which all inmates received optimally titrated OROS-methylphenidate (maximum 1.3 mg/kg daily) alongside regular prison-based offender treatment programs within the prison setting.16,20 Medication was highly effective and safe overall in reducing ADHD symptoms, improving global and executive functioning, behavior control, and quality of life, both in the short term (5 weeks) compared with placebo (Cohen's d = 2.17; number needed to treat, 1.1), and over 52 weeks when delivered as part of multimodal treatment. No misuse of ADHD medication or side abuse of other drugs was detected by repeated, mandatory urine toxicology throughout the study period. The vast majority attended and completed cognitive behavioral therapy-based offender treatment programs, educational activities, and vocational training, aimed at reducing reoffending and increasing societal reintegration.20 After completion of the 52-week trial, regular prison psychiatrists were responsible for the continued medication of imprisoned study participants and for the referral of inmates to general psychiatric outpatient clinics when conditionally released from prison, in case continued treatment was indicated.\n\nThe outpatient clinics were located in several areas of Sweden although a majority of them were located in the Stockholm County. We prospectively followed up completers of the 52-week trial, 1 and 3 years after trial to elucidate long-term outcome.\n\nDemographic Information\n\nA letter with information about the follow-up study (same procedure for the 1- and 3-year follow-up) was sent to the completers of the 52-week trial, together with the self-administered rating scales described later, a questionnaire addressing current medication, reasons for any treatment discontinuation, prison release, reoffending, employment status, and current support from society. A prestamped envelope for the return of the scales and the questionnaire was also provided. After this, the participant was asked to take part in the clinical interview with observer ratings, preferably at a study visit, but because of practical circumstances (participants living in distant areas of Sweden or abroad), assessments were occasionally performed by telephone interviews.\n\nObserver-Rated Outcome Measures\n\nIn the 52-week clinical trial, observer ratings were performed by a blinded assessor. However, observer ratings at the 1- and 3-year naturalistic follow-up were performed by a general psychiatrist (Y.G.), nonblinded to treatment but masked to the previous assessments.\n\nThe primary outcome of the RCT was change in observer-rated ADHD symptoms from baseline until the end of week 5 in the double-blind phase as measured by the total summary score (0–54) of Conners' Adult ADHD Rating Scale-Observer: Screening Version (CAARS: O-SV).22 The degree of illness (1–7) was rated with the Clinical Global Impression Severity of Illness Scale",
+    "Journal of Clinical Psychopharmacology • Volume 35, Number 5, October 2015                    Long-Term Methylphenidate Treatment Outcome\n\n(CGI-S),23 and global functioning (0–100) was assessed by the Global Assessment of Functioning (GAF) Scale.24\n\nSelf-Rated Outcome Measures\nParticipants assessed current ADHD symptoms (0–72) with the Adult ADHD Self-Report Scale (ASRS) before and after trial and at the 1- and 3-year follow-ups.25 Global quality of life was assessed (−6 to +6) with the Quality of Life Inventory (QOLI) before and after trial and at the 1- and 3-year follow-ups.26 Alcohol use was rated (0–40) with the Alcohol Use Disorders Identification Test (AUDIT)27 and drug use (0–44) with the Drug Use Disorders Identification Test (DUDIT)28 at the 1- and 3-year follow-up assessments.\n\nStatistical Analyses\nWe calculated changes within completers between pretrial and posttreatment periods as well as 1-year follow-up and 3-year follow-up. For normally distributed outcomes, we used paired-samples t tests and expressed the effect size with η2. We used the nonparametric Wilcoxon signed rank test for nonnormally distributed outcomes and the Mann-Whitney U test for comparisons between groups. Effect sizes for the 2 nonparametric statistics were calculated by dividing the z value by the square root of the total number of cases with data at both assessments. The α level was set at P < 0.05 (2-sided test), and SPSS statistics software, version 19.0, for Windows was used for all analyses.\n\nRESULTS\nFigure 1 displays the study flowchart. Altogether, 25 male adult prisoners participating in the posttrial assessments of the 52-week trial were defined as study completers and eligible to take part in the follow-up assessments. Of 25 completers, 24 (96%) participated in the 1-year follow-up, and 20 (80%) in the 3-year follow-up, either fully or in part. Baseline sociodemographic and diagnostic data were reported previously.21 Briefly, the 25 prisoners were on average 33.6 years old and severely symptomatic and functionally impaired from ADHD and coexistent disorders (Table 1). Index offenses were almost exclusively violent or drug-related and current prison sentences long. Two participants were sentenced to life without time limit for homicide (a proxy sentence time of 240 months was used for statistical analyses). A vast majority had received educational support during childhood despite normal-range IQs of 88 (SD, 10.8); still, the\n\nFIGURE 1. Flowchart for 52-week OROS-methylphenidate (OROS-MPH) trial and observational 1- and 3-year follow-up assessments among male adult prisoners with ADHD.\n\n© 2015 Wolters Kluwer Health, Inc. All rights reserved.                                                                                     www.psychopharmacology.com | 537\n\nCopyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.",
+    "Ginsberg et al Journal of Clinical Psychopharmacology • Volume 35, Number 5, October 2015\n\noverall educational level was very low. Based on comprehensive diagnostic assessments, approximately a quarter was diagnosed with autism spectrum disorder.21 Furthermore, histories of coexistent mood and anxiety disorders were quite common, and approximately half had received concomitant medication for coexistent psychiatric disorders during the trial. All assessed inmates fulfilled criteria for ASPD according to SCID-II. Of the 25, 4 (16%) fulfilled criteria for a dichotomous diagnosis of psychopathy using a total Hare Psychopathy Check List-Revised (PCL-R) score of 26 points or higher as recommended for Swedish correctional/forensic populations.29 The mean (SD) PCL-R total score across the 20 items each rated 0-1-2 was 19.7 (6.1) points (range, 7–33). A staggering 25/25 completers reported a history of SUD at any period in life, with early onset in both alcohol use (mean, 12.2 years) and illegal drug use (mean, 14.4 years). Amphetamine was reported as major drug by 60%.\n\nADHD Symptoms, Global Severity and Functioning, and Quality of Life at Follow-Ups\n\nOutcome analyses included participants both with and without current ADHD medication at the 1- and 3-year follow-up assessments (Table 2). Importantly, the substantial improvements in ADHD symptoms observed with CAARS: O-SV during the initial placebo-controlled phase and with continued improvement over the 47-week open-label extension were maintained in the entire completer group at both 1- and 3-year follow-ups (Table 2).\n\nHowever, the very large effect size observed after trial with CAARS: O-SV (η2 = 0.92) was reduced within individuals over time until the 3-year follow-up but still considered large (η2 = 0.78). Mean (SD) CAARS: O-SV scores at the 3-year follow-up of 17.2 (10.3) suggested more than a 50% reduction of ADHD symptoms as compared with pretrial levels of 39.8 (5.2) for the entire completer group. Similar patterns of maintained improvements with large effect sizes were observed for self-reported ADHD symptoms according to ASRS and global severity of illness measured with observer-rated CGI-S (Table 2). Although global functioning measured by observer-rated GAF deteriorated slightly during follow-up, it remained significantly improved (P < 0.001, effect size η2 = 0.75) at the 3-year follow-up (mean, 66.5) as compared with pretrial scores (mean, 35.5). Furthermore, self-reported quality of life (QOLI) improved significantly between 1-year (mean, 0.6) and 3-year follow-ups (mean, 1.2), both indicating significant improvements (P < 0.01, effect size η2 = 0.32, and P < 0.001, effect size η2 = 0.53, respectively) as compared with pretrial levels (mean, −0.6).\n\nSubstance Use at Follow-Up\n\nAs seen in Table 2, at 1-year follow-up, the mean (SD) self-reported AUDIT alcohol use score was 4.2 (4.9) (median, 2.0; n = 23) in the entire completer group comprising both incarcerated and released participants. Expectedly, when comparing the entire group with the released, the alcohol use was higher among released (median, 3.0; n = 11) participants (data not shown).\n\nA similar pattern was observed at the 3-year follow-up. The average alcohol use was higher among released (median, 4.0; n = 15) participants compared with the entire (median, 3.5; n = 20) responder group (data not shown). Interestingly, these results indicated average alcohol consumption below the threshold for risk consumption according to AUDIT (≥8) for participants, also in those released from prison, at both follow-ups. As displayed in Table 2, at 1-year follow-up, the self-reported drug use measured with DUDIT did not differ between released participants (median, 4.0; n = 10) and the entire (mean [SD], 3.6 [5.7]; median, 4.0; n = 22) completer group (data not shown).\n\n538 www.psychopharmacology.com © 2015 Wolters Kluwer Health, Inc. All rights reserved.\n\nCopyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.",
+    "Journal of Clinical Psychopharmacology • Volume 35, Number 5, October 2015                    Long-Term Methylphenidate Treatment Outcome\n\nThe 3-year follow-up demonstrated a similar pattern with comparable drug use among released respondents (median, 4.0; n = 15) and the entire (mean [SD], 4.6 [6.4]; median, 4.0; n = 19) completer group (data not shown). Taken together, these results suggested an average drug use below the threshold for drug-related problems according to DUDIT (≥6) for participants, also in those released, at both follow-ups.\n\nRelease and Provision Status at Follow-Up\nTable 3 displays that 11/24 participants (46%) were released from prison at the 1-year follow-up and another 4 up to 15/20 participants (75%) after 3 years. Overall, participants received support from a number of authorities and health care providers, and the proportion of participants that were employed increased over time. At the 3-year follow-up, 10/15 participants were employed, and 7/10 in full-time work.\nAs Table 3 depicts, 3 recidivating participants self-reported a total of 4 offenses from release from prison until the 1-year follow-up. The offenses (>1 offense per participant was possible here too) included driving a car without a driver's license, illegal drug use, and a violent offense (illegal threat or assault). Five participants self-reported a total of 7 offenses between the 1- and 3-year follow-ups. The offenses (>1 offense per participant was possible here too) included driving a car without license, illegal drug use, fraud, and illegal threat or assault. Two of the 5 participants had been reincarcerated because of their new offense (illegal threat or assault and fraud), and another participant had been prosecuted but not yet convicted for a suspected violent crime.\n\nADHD Medication at Follow-Up\nAt the posttrial assessment after 52 weeks of treatment, the median daily dose of methylphenidate among completers (n = 25) was 108 mg (mean [SD], 106 [27.5] mg), corresponding to 1.1 mg/kg daily. At the 1-year follow-up, 20 (83%) of 24 participants reported current use of ADHD medication (Fig. 2). Their median daily methylphenidate dose was 142 mg (mean [SD], 148 [49.7] mg). Reported reasons for discontinuation of medication (n = 4) were weight loss, perceived lack of efficacy, medication misuse, and misconduct.\nAt the 3-year follow-up, 15/20 (75%) respondents were currently medicated for ADHD, with a median daily dose of 144 mg methylphenidate (mean [SD], 155 [59.3] mg). Reasons for discontinuation of medication (n = 5) were inability to find a psychiatrist willing to prescribe ADHD medication (n = 2), weight loss (n = 1), and having acquired sufficient coping strategies to manage one's ADHD without medication (n = 2).\n\nComparison of Medicated Versus Nonmedicated Participants at 3-Year Follow-Up\nWhen comparing medicated completers (n = 15) with nonmedicated (n = 5) at the 3-year follow-up (Table 4), we found significant differences on several outcome measures. Participants with continued ADHD medication had significantly less observer- and self-rated ADHD symptoms, lower global severity of illness, and substantially less alcohol and drug use as compared with nonmedicated participants.\nFigure 2 depicts the course from pretrial to the 3-year follow-up for medicated and nonmedicated participants regarding observer-rated ADHD symptoms according to the primary outcome measure CAARS: O-SV.\nThere were no significant differences on pretrial or posttrial assessments between those with and without current medication at the 3-year follow-up (Table 4). However, nonmedicated subjects at 3 years were significantly more symptomatic from ADHD (CAARS: O-SV) at the 1-year follow-up. They also reported significantly more self-rated ADHD symptoms than medicated\n\n© 2015 Wolters Kluwer Health, Inc. All rights reserved.                                                                                    www.psychopharmacology.com | 539\n\nCopyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.",
+    "Ginsberg et al\tJournal of Clinical Psychopharmacology • Volume 35, Number 5, October 2015\n\n540 | www.psychopharmacology.com\t© 2015 Wolters Kluwer Health, Inc. All rights reserved.\n\nCopyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.",
+    "subjects throughout the follow-up period (Table 4). Furthermore, the nonmedicated at 3-year follow-up had lower observer-rated global functioning on the GAF scale after trial and throughout follow-up, although not significantly so at 1-year follow-up.\n\nConversely, at 3-year follow-up, participants with continued ADHD medication reported significantly lower QOLI scores before the trial (mean [SD], −1.1 [1.3]) compared with nonmedicated participants (mean [SD], 0.0 [0.6]). However, quality of life improved more during the 1-year trial in those who continued medication (mean [SD], 0.9 [1.3], after trial) over 4 years in total (1 + 3 years) than in those who discontinued medication during follow-up time (mean [SD], 0.4 [0.9], after trial) (Table 4).\n\nDISCUSSION\n\nWe examined long-term, posttrial effect persistence in the first controlled methylphenidate trial with adult male prisoners with ADHD.16,20 Thus, 25 completers of a 52-week OROS-methylphenidate trial were followed up prospectively 1 year (24/25, 96% participated) and 3 years (20/25, 80%) after trial completion in an observational, naturalistic study. In line with our hypothesis, the substantial improvements in ADHD symptoms, global symptom severity and functioning, and quality of life observed during the trial were maintained after up to 4 years with continued methylphenidate treatment. Continued medication at the 3-year follow-up versus not was associated with fewer ADHD symptoms, less functional impairment, lower alcohol and drug use, and increased quality of life.\n\nThe long-term effects of ADHD medication in adults with this disorder have been mostly unknown, because of short duration of clinical trials and few long-term observational studies. Nevertheless, our positive outcomes from a total of 4 years of methylphenidate treatment are in line with recent studies suggesting that adequate treatment may reduce the negative impact of ADHD on everyday life functioning in adults2 and that medication for more than 2 years was associated with more symptomatic and functional improvement than medication for shorter periods.31 Moreover, a recent Swedish register-based total population study indicated a decrease in substance abuse with ADHD medication; the longer duration of ADHD medication, the lower the rate of substance abuse.32\n\nCoexistent disorders, adverse effects, and insufficient follow-up routines have been associated with poor adherence and treatment discontinuation.31,33 In this study, lack of proper follow-up was reported as a reason for discontinuation, together with poor effectiveness, adverse effects, and individual strategies for coping with ADHD that made medication unnecessary. We also found that participants who improved more in self-reported ADHD symptoms and quality of life during the trial were more likely to remain on medication at the 3-year follow-up. This is consistent with a Swedish study of nonoffender patients by Bjerot et al33 reporting that a robust treatment response during the first year of ADHD medication predicted adherence to medication at 2-year follow-up. However, the authors also reported that unknown or unspecified reasons for stimulant treatment discontinuation were frequent. A retrospective, naturalistic Norwegian study addressed predictive factors for more than 3 years of stimulant treatment among adults with ADHD.14 Despite high levels of coexistent disorders, including substance misuse and antisocial behavior, a median of 33-month duration of stimulant treatment was reported, suggesting the feasibility of also treating patients with complex psychopathology. Furthermore, the use of methylphenidate with extended-release formulations (ER) correlated with longer treatment duration. This is in line with Ramos-Quiroga et al34 (2008) who suggested that the convenience of ER compared with immediate-release formulations contributed to increased compliance and less treatment discontinuation. Although the Norwegian study used much lower methylphenidate doses (mean, 58.9 mg daily) than ours, the positive long-term outcomes from OROS-methylphenidate treatment (an ER formulation) in criminal offenders with ADHD agree with their findings.\n\nWe also observed increased daily doses during follow-up, from a median of 108 mg after trial via 142 mg at the 1-year follow-up to 144 mg at 3 years. Notably, the doses reported by participants at follow-up assessments were higher than those usually recommended by guidelines.10 First, one possible explanation to the observed increased doses could be optimized dose titration as most participants were not fully remitted by the end of the trial, thus leaving room for further improvement that clearly tapered off between the 1- and 3-year follow-ups. This possibility is supported by a recent OROS-methylphenidate study with criminal offenders diagnosed with ADHD and concurrent amphetamine dependence.35 Participants were mainly treated in outpatient care after release from prison and usually required daily methylphenidate doses of 144 to 180 mg for improvement. This suggests that ADHD with concurrent SUD might require higher methylphenidate doses than recommended by the NICE guidelines,10 possibly related to down-regulated brain dopamine systems and increased tolerance to stimulants.36 As mentioned previously, all our participants had lifetime histories of SUD. A second possible reason for increased doses might be higher demands on the individual when leaving the highly structured prison environment. Life outside prison requires higher levels of executive and independent functioning, areas that usually are impaired in ADHD.\n\nThe proportion of released participants was 75% at the 3-year follow-up. Most respondents reported support from various authorities and caregivers; yet, 67% were in full- or part-time work at the 3-year follow-up. The high employment rate might be considered a favorable outcome, given our sample of highly symptomatic and functionally impaired severe criminal offenders,21 especially considering that ASPD is a negative predictor for long treatment duration in ADHD patients.14 During 3 years of follow-up, 20 of a total of 25 trial completers taking part in follow-up assessments were released from their index prison sentence.\n\nIn most countries, criminal reoffending is quite common after release from prison. During the study period, relapse rates reflected in new registered arrests or suspected offenses of any sort within 3 years were approximately 70% in Sweden for formerly imprisoned men with violent crime(s) as principal offense, and approximately 67% for those with a principal drug-related offense.37 In our sample, 7/14 subjects (50%) with a violent principal offense and 1/6 (17%) of those with a principal drug-related offense self-reported reoffending throughout the 3-year follow-up. The offense types included car driving without a license, illegal drug use, fraud, illegal threats, and assault. Albeit imprecise because of few observations, these comparisons indicate substantially lower relapse rates among our respondents compared with similar male clients released from prison during the same period. However, considering again the few participants in the present study, our results need to be interpreted with caution.\n\nNevertheless, the promising effect sizes and persistence over time for ADHD medication suggested from this first prison trial with long-term follow-up and the high prevalence of ADHD in criminal offenders indicate substantial potential to reduce the individual and societal burdens of criminality.3,21,38,39 However, this would require cooperation between psychiatric, addiction, correctional, and social services to provide linked services for offenders with ADHD, involving continued support and, preferably, multimodal interventions.\n\n© 2015 Wolters Kluwer Health, Inc. All rights reserved.\nwww.psychopharmacology.com | 541\nCopyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.",
+    "Ginsberg et al                                                                                    Journal of Clinical Psychopharmacology • Volume 35, Number 5, October 2015\n\nLimitations\n\nPotential limitations regarding participant recruitment and generalizability of findings have been discussed previously.16,20 In summary, study participants were quite motivated to take part in the trial and follow-up assessments. Hence, the results of this study should be generalized with caution to other offender populations. Some additional limitations also need consideration here. First, we were primarily interested in evaluating longer-term effects of participation in the initial 52-week methylphenidate trial. For this reason, we only included trial completers. It would also have been of interest to explore differences in long-term outcome between dropouts and completers of the trial. However, the limited sample size and resulting low statistical power did not allow such comparisons. Second, a few completers could not be traced or declined to participate in the 1- and 3-year follow-ups. However, participation rates of 96% and 80%, respectively, might still be regarded as high considering our complex study population of severe criminal offenders with ADHD and SUD. Third, although we relied primarily on observer-rated outcomes, self-report measures were also used. Yet, a previous study reported that adults with ADHD reliably rated current symptoms,40 despite a risk of underestimating ADHD-related impairments.41 Fourth, data on medication were self-reported by participants at the 1- and 3-year follow-ups, and no data were collected from the prescribing psychiatrists regarding medication dosages, tolerability and safety, frequency of visits, or if motivational support or nonpharmacological treatment was provided. Fifth and finally, results should be interpreted with caution because this was a naturalistic follow-up study without an untreated control group. However, our results should add both to the currently sparse literature on long-term effects of ADHD medication (4 years in total) and on potential long-term benefits from treatment of the underserved population of criminal offenders with ADHD and SUD.\n\nCONCLUSIONS\n\nWe conducted a long-term, follow-up study of ADHD medication in criminal adults with considerable comorbidity, patients otherwise regularly excluded from RCTs. Symptomatic and functional improvements gained during a 52-week OROS-methylphenidate trial in adult male, long-term prisoners with ADHD and substantial concurrent psychopathology including substance misuse seemed to persist up to 3 years after trial completion (exposed to 4 years of treatment in total). Importantly, most clients were also employed at the 3-year follow-up and had not relapsed into criminal offending or substance misuse. Together with observations of poorer outcomes for participants untreated at follow-ups, this indicates that improved routines and collaboration to ensure continued motivation, support, and treatment might reduce individual and societal injury from criminal (re)offending. Additional studies are warranted to validate these preliminary findings in new and larger samples.\n\nACKNOWLEDGMENT\n\nThe authors thank the participants and all collaborators from the Stockholm County Council and the Swedish Prison and Probation Services who made this work possible.\n\nAUTHOR DISCLOSURE INFORMATION\n\nThis was an investigator-initiated study funded by the Swedish Ministry of Health and Social Affairs and the Stockholm County Council, Sweden. Dr Ginsberg has served as an investigator, consultant and/or speaker for Novartis, Eli Lilly, HB Pharma, and Shire. Dr Larsson has served as a speaker for Eli Lilly and received a research grant from Shire. Dr Långström received one speaker's honorarium from Lundbeck in 2013, and Dr Lindefors has no conflicts to declare.\n\nREFERENCES\n\n1. Kooij SJ, Bejerot S, Blackwell A, et al. European consensus statement on diagnosis and treatment of adult ADHD: the European Network Adult ADHD. BMC Psychiatry. 2010;10:67.\n\n2. Shaw M, Hodgkins P, Caci H, et al. A systematic review and analysis of long-term outcomes in attention deficit hyperactivity disorder: effects of treatment and non-treatment. BMC Med. 2012;10:99.\n\n3. Young S, Moss D, Sedgwick O, et al. A meta-analysis of the prevalence of attention deficit hyperactivity disorder in incarcerated populations. Psychol Med. 2014;7:1–12.\n\n4. Willcutt EG. The prevalence of DSM-IV attention-deficit/hyperactivity disorder: a meta-analytic review. Neurotherapeutics. 2012;9:490–499.\n\n5. Rösler M. Adult attention-deficit hyperactivity disorder—functional impairment, conduct problems and criminality. In: Retz W, Klein RG, eds. Attention-Deficit Hyperactivity Disorder (ADHD) in Adults. Basel, Switzerland: Karger; 2010:144–158.\n\n6. von Polier GG, Vloet TD, Herpertz-Dahlmann B. ADHD and delinquency—a developmental perspective. Behav Sci Law. 2012;30:121–139.\n\n7. Mordre M, Groholt B, Kjelsberg E, et al. The impact of ADHD and conduct disorder in childhood on adult delinquency: a 30 years follow-up study using official crime records. BMC Psychiatry. 2011;11:57.\n\n8. Satterfield JH, Faller KJ, Crinella FM, et al. A 30-year prospective follow-up study of hyperactive boys with conduct problems: adult criminality. J Am Acad Child Adolesc Psychiatry. 2007;46:601–610.\n\n9. Young S, Goodwin E. Attention-deficit/hyperactivity disorder in persistent criminal offenders: the need for specialist treatment programs. Expert Rev Neurother. 2010;10:1497–1500.\n\n10. Atkinson M, Hollis C. NICE guideline: attention deficit hyperactivity disorder. Arch Dis Child Educ Pract Ed. 2010;95:24–27.\n\n11. Fredriksen M, Halmøy A, Faraone S, et al. Long-term efficacy and safety of treatment with stimulants and atomoxetine in adult ADHD: a review of controlled and naturalistic studies. Eur Neuropsychopharmacol. 2013;23:508–527.\n\n12. Wilens TE, Morrison NR, Prince J. An update on the pharmacotherapy of attention-deficit/hyperactivity disorder in adults. Expert Rev Neurother. 2011;11:1443–1465.\n\n13. Surman CB, Monuteaux MC, Petty CR, et al. Representativeness of participants in a clinical trial for attention-deficit/hyperactivity disorder? Comparison with adults from a large observational study. J Clin Psychiatry. 2010;71:1612–1616.\n\n14. Torgersen T, Gjervan B, Nordah HM, et al. Predictive factors for more than 3 years' duration of central stimulant treatment in adult attention-deficit/hyperactivity disorder: a retrospective, naturalistic study. J Clin Psychopharmacol. 2012;32:645–652.\n\n15. Hazell P. The challenges to demonstrating long-term effects of psychostimulant treatment for attention-deficit/hyperactivity disorder. Curr Opin Psychiatry. 2011;24:286–290.\n\n16. Ginsberg Y, Lindefors N. Methylphenidate treatment of adult male prison inmates with attention-deficit hyperactivity disorder: randomised double-blind placebo-controlled trial with open-label extension. Br J Psychiatry. 2012;200:68–73.\n\n17. Zetterqvist J, Asherson P, Halldner L, et al. Stimulant and non-stimulant attention deficit/hyperactivity disorder drug use: total population study of trends and discontinuation patterns 2006-2009. Acta Psychiatr Scand. 2013;128:70–77.\n\n18. Fredriksen M, Dahl AA, Martinsen EW, et al. Effectiveness of one-year pharmacological treatment of adult attention-deficit/hyperactivity disorder (ADHD): an open-label prospective study of time in treatment, dose,\n\n542  |  www.psychopharmacology.com                                                                    © 2015 Wolters Kluwer Health, Inc. All rights reserved.\n\nCopyright © 2015 Wolters Kluwer Health, Inc. All rights reserved.",
+    "side-effects and comorbidity. Eur Neuropsychopharmacol. 2014;24:\n1873–1884.\n\n19. Lichtenstein P, Halldner L, Zetterqvist J, et al. Medication for\nattention deficit-hyperactivity disorder and criminality. N Engl J Med.\n2012;367:2006–2014.\n\n20. Ginsberg Y, Hirvikoski T, Grann M, et al. Long-term functional outcome\nin adult prison inmates with ADHD receiving OROS-methylphenidate.\nEur Arch Psychiatry Clin Neurosci. 2012;262:705–724.\n\n21. Ginsberg Y, Hirvikoski T, Lindefors N. Attention deficit hyperactivity\ndisorder (ADHD) among longer-term prison inmates is a prevalent,\npersistent and disabling disorder. BMC Psychiatry. 2010;10:112.\n\n22. Conners C, Erhart D, Sparrow E. Conners' Adult ADHD Rating Scales\n(CAARS): Technical Manual. North Tonawanda, NY: Multi-Health\nSystems; 1999.\n\n23. Guy W. ECDEU Assessment Manual for Psychopharmacology—Revised.\nRockville, MD: Department of Health, Education and Welfare; 1976.\n\n24. Ramirez A, Ekselius L, Ramklint M. Axis V—Global Assessment of\nFunctioning scale (GAF), further evaluation of the self-report version.\nEur Psychiatry. 2008;23:575–579.\n\n25. Rösler M, Retz W, Stieglitz RD. Psychopathological rating\nscales as efficacy parameters in adult ADHD treatment\ninvestigations—benchmarking instruments for international\nmulticentre trials. Pharmacopsychiatry. 2010;43:92–98.\n\n26. Paunovic N, Öst LG. Clinical validation of the Swedish version of the\nQuality of Life Inventory in crime victims with posttraumatic stress disorder\nand a nonclinical sample. J Psychopath Behav Assess. 2004;26:15–21.\n\n27. Bergman H, Källmén H. Alcohol use among Swedes and a psychometric\nevaluation of the Alcohol Use Disorders Identification Test. Alcohol\nAlcohol. 2002;37:245–251.\n\n28. Berman AH, Bergman H, Palmstierna T, et al. Evaluation of the Drug\nUse Disorders Identification Test (DUDIT) in criminal justice and\ndetoxification settings and in a Swedish population sample. Eur Addict Res.\n2005;11:22–31.\n\n29. Hare RD. Hare Psychopathy Checklist—Revised Technical Manual.\n2nd eds. Toronto, Canada: Multi-Health Systems; 2003.\n\n30. Cohen JW. Statistical power analysis for the behavioral sciences.\n2nd eds. Hillsdale, NJ: Lawrence Erlbaum Associates; 1988.\n\n31. Lensing MB, Zeiner P, Sandvik L, et al. Four-year outcome in\npsychopharmacologically treated adults with attention-deficit/hyperactivity\ndisorder: a questionnaire survey. J Clin Psychiatry. 2013;74:e87–e93.\n\n32. Chang Z, Lichtenstein P, Halldner L, et al. Stimulant ADHD medication\nand risk for substance abuse. J Child Psychol Psychiatry. 2014;55:\n878–885.\n\n33. Bejerot S, Rydén EM, Arlinde CM. Two-year outcome of\ntreatment with central stimulant medication in adult\nattention-deficit/hyperactivity disorder: a prospective study. J Clin\nPsychiatry. 2010;71:1590–1597.\n\n34. Ramos-Quiroga JA, Bosch R, Castells X, et al. Effect of switching\ndrug formulations from immediate-release to extended-release OROS\nmethylphenidate: a chart review of Spanish adults with attention-deficit\nhyperactivity disorder. CNS Drugs. 2008;22:603–611.\n\n35. Konstenius M, Jayaram-Lindström N, Guterstam J, et al.\nMethylphenidate for attention deficit hyperactivity disorder and\ndrug relapse in criminal offenders with substance dependence:\na 24-week randomized placebo-controlled trial. Addiction. 2014;109:\n440–449.\n\n36. Volkow ND, Fowler JS, Wang GJ, et al. Dopamine in drug abuse and\naddiction: results from imaging studies and treatment implications.\nMol Psychiatry. 2004;9:557–569.\n\n37. The Swedish National Council for Crime Prevention (Brå). Crime\nstatistics. Available at: http://www.bra.se/bra/bra-in-english/home/\ncrime-and-statistics/crime-statistics/recidivism.html. Accessed\nJanuary 16, 2015.\n\n38. Ginsberg Y, Långström N, Larsson H, et al. ADHD and criminality:\ncould treatment benefit prisoners with ADHD who are at higher risk of\nreoffending? Expert Rev Neurother. 2013;13:345–348.\n\n39. Young SJ, Adamou M, Bolea B, et al. The identification and management\nof ADHD offenders within the criminal justice system: a consensus\nstatement from the UK Adult ADHD Network and criminal justice\nagencies. BMC Psychiatry. 2011;11:32.\n\n40. Murphy P, Schachar R. Use of self-ratings in the assessment of symptoms\nof attention deficit hyperactivity disorder in adults. Am J Psychiatry.\n2000;157:1156–1159.\n\n41. Manor I, Vurembrandt N, Rozen S, et al. Low self-awareness of ADHD\nin adults using a self-report screening questionnaire. Eur Psychiatry.\n2012;27:314–320.\n\nJournal of Clinical Psychopharmacology • Volume 35, Number 5, October 2015\nLong-Term Methylphenidate Treatment Outcome\n\n© 2015 Wolters Kluwer Health, Inc. All rights reserved.\nwww.psychopharmacology.com | 543\n\nCopyright © 2015 Wolters Kluwer Health, Inc. All rights reserved."
+  ],
+  "tables": [
+    {
+      "table_num": 1,
+      "page": 2,
+      "caption": "TABLE 1. Baseline Sociodemographic and Diagnostic Data for Adult Male Prisoners With ADHD (n = 25) Completing a 52-Week OROS-Methylphenidate Trial",
+      "headers": [
+        "Characteristic",
+        "No."
+      ],
+      "rows": [
+        [
+          "Sociodemographics",
+          ""
+        ],
+        [
+          "Age, mean (SD), range, y",
+          "33.6 (10.8), 21–61"
+        ],
+        [
+          "Male sex, n (%)",
+          "25 (100)"
+        ],
+        [
+          "Highest educational level, junior high school, n (%)",
+          "20 (80)"
+        ],
+        [
+          "Educational support during childhood, n (%)",
+          "20 (80)"
+        ],
+        [
+          "Cognitive/intellectual functioning, IQ estimate, mean (SD)",
+          "88 (10.8)"
+        ],
+        [
+          "ADHD subtype, n (%)",
+          ""
+        ],
+        [
+          "Combined",
+          "23 (92)"
+        ],
+        [
+          "Predominantly inattentive",
+          "2 (8)"
+        ],
+        [
+          "Psychiatric morbidity",
+          ""
+        ],
+        [
+          "Autism spectrum disorder, any lifetime, n (%)",
+          "7 (28)"
+        ],
+        [
+          "Mood or anxiety disorder, any lifetime, n (%)",
+          "17 (68)"
+        ],
+        [
+          "ASPD (n = 22 were assessed), current, n (%)",
+          "22 (100)"
+        ],
+        [
+          "PCL-R, total score, mean (SD), range",
+          "19.7 (6.1), 7–33"
+        ],
+        [
+          "Current treatment for non-ADHD psychiatric disorder, n (%)",
+          "12 (48)"
+        ],
+        [
+          "Any contact child psychiatry/school health, n (%)",
+          "14 (56)"
+        ],
+        [
+          "Substance misuse",
+          ""
+        ],
+        [
+          "Any parental substance misuse, n (%)",
+          "15 (60)"
+        ],
+        [
+          "SUD, any lifetime, n (%)",
+          "25 (100)"
+        ],
+        [
+          "Age of onset in illegal drug use, mean (SD), y",
+          "14.4 (2.4)"
+        ],
+        [
+          "Age of onset in alcohol use, mean (SD), y",
+          "12.2 (1.6)"
+        ],
+        [
+          "Amphetamine preferred, n (%)",
+          "15 (60)"
+        ],
+        [
+          "Alcohol preferred, n (%)",
+          "4 (16)"
+        ],
+        [
+          "Cocaine preferred, n (%)",
+          "2 (8)"
+        ],
+        [
+          "Cannabis preferred, n (%)",
+          "1 (4)"
+        ],
+        [
+          "Opiates preferred, n (%)",
+          "1 (4)"
+        ],
+        [
+          "Anabolic androgenic steroids preferred, n (%)",
+          "1 (4)"
+        ],
+        [
+          "Other drug(s) preferred, n (%)",
+          "1 (4)"
+        ],
+        [
+          "Criminality",
+          ""
+        ],
+        [
+          "Age of onset criminal acts, mean (SD), y",
+          "11.4 (3.3)"
+        ],
+        [
+          "Length of current prison sentence, mean (SD), range, mo",
+          "73.6 (55.2), 16–240"
+        ]
+      ]
+    },
+    {
+      "table_num": 2,
+      "page": 4,
+      "caption": "TABLE 2. Absolute Pretrial, Posttrial, 1-Year, and 3-Year Follow-Up Scores and Change Effect Sizes for Completers of a 52-Week OROS-Methylphenidate Trial Among Adult Male Prisoners With ADHD",
+      "headers": [
+        "Measure (Scale Range)",
+        "Pretrial, Mean (SD), Median (n = 25)",
+        "Posttrial, Mean (SD), Median (n = 25)",
+        "Change Pre-Post Trial Effect Size",
+        "Change Pre-Post Trial P",
+        "1-y Follow-Up, Mean (SD), Median (n = 23)",
+        "Change Pretrial 1-y Follow-Up Effect Size",
+        "Change Pretrial 1-y Follow-Up P",
+        "3-y Follow-Up, Mean (SD), Median (n = 20)",
+        "Change Pretrial 3-y Follow-Up Effect Size",
+        "Change Pretrial 3-y Follow-Up P"
+      ],
+      "rows": [
+        [
+          "CAARS: O-SV (0 to 54)",
+          "39.8 (5.2) 41",
+          "12.9 (6.7) 12",
+          "0.92*",
+          "<0.001",
+          "13.4 (8.3) 15.5",
+          "0.88*",
+          "<0.001",
+          "17.2 (10.3) 17",
+          "0.78*",
+          "<0.001"
+        ],
+        [
+          "ASRS (0 to 72)",
+          "56.2 (8.0) 57",
+          "27.4 (11.7) 27",
+          "0.81*",
+          "<0.001",
+          "25.5 (12.0) 26",
+          "0.80*",
+          "<0.001",
+          "27.4 (14.1) 27",
+          "0.75*",
+          "<0.001"
+        ],
+        [
+          "CGI-S (1 to 7)",
+          "5.8 (0.6) 6",
+          "3.1 (0.9) 3",
+          "0.62*",
+          "<0.001",
+          "3.1 (1.2) 3",
+          "0.58*",
+          "<0.001",
+          "3.4 (1.5) 3",
+          "0.55*",
+          "<0.001"
+        ],
+        [
+          "GAF (0 to 100)",
+          "35.5 (5.1) 35",
+          "70.7 (9.1) 70",
+          "0.92*",
+          "<0.001",
+          "66.6 (14.0) 65",
+          "0.80*",
+          "<0.001",
+          "66.5 (18.1) 65",
+          "0.75*",
+          "<0.001"
+        ],
+        [
+          "QOLI (−6 to 6)",
+          "−0.6 (1.4) −0.8",
+          "0.7 (1.4) 0.6",
+          "0.50*",
+          "<0.001",
+          "0.6 (1.5) 0.4",
+          "0.32*",
+          "<0.01",
+          "1.2 (1.9) 0.9",
+          "0.53*",
+          "<0.001"
+        ],
+        [
+          "AUDIT (0 to 40)",
+          "NA",
+          "NA",
+          "NA",
+          "NA",
+          "4.2 (4.9) 2",
+          "NA",
+          "NA",
+          "5.1 (5.1) 3.5",
+          "NA",
+          "NA"
+        ],
+        [
+          "DUDIT (0 to 44)",
+          "NA",
+          "NA",
+          "NA",
+          "NA",
+          "3.6 (5.7) 4",
+          "NA",
+          "NA",
+          "4.6 (6.4) 4",
+          "NA",
+          "NA"
+        ]
+      ]
+    },
+    {
+      "table_num": 3,
+      "page": 5,
+      "caption": "Demographic Data at 1- and 3-Year Follow-Up Assessments for Completers of a 52-Week OROS-Methylphenidate Trial Among Male Prisoners With ADHD",
+      "headers": [
+        "Variable",
+        "1-y Follow-Up (n = 24)",
+        "3-y Follow-Up (n = 20)"
+      ],
+      "rows": [
+        [
+          "Released from prison, n (%)",
+          "11 (46)",
+          "15 (75)"
+        ],
+        [
+          "Provision, n",
+          "",
+          ""
+        ],
+        [
+          "Full- or part-time employment",
+          "2",
+          "10"
+        ],
+        [
+          "Social benefits only",
+          "4",
+          "1"
+        ],
+        [
+          "Sick leave/disability pension",
+          "2",
+          "4"
+        ],
+        [
+          "Without any provision",
+          "3",
+          "0"
+        ],
+        [
+          "Support from authorities, n",
+          "",
+          ""
+        ],
+        [
+          "Parole and probation services",
+          "7",
+          "5"
+        ],
+        [
+          "Social services",
+          "6",
+          "5"
+        ],
+        [
+          "Social insurance office",
+          "3",
+          "3"
+        ],
+        [
+          "Employment office",
+          "4",
+          "5"
+        ],
+        [
+          "Psychiatric outpatient care",
+          "7",
+          "8"
+        ],
+        [
+          "Substance dependence outpatient care",
+          "3",
+          "4"
+        ],
+        [
+          "Forensic psychiatric outpatient care",
+          "1",
+          "0"
+        ],
+        [
+          "General practitioner",
+          "1",
+          "2"
+        ],
+        [
+          "Enforcement authority",
+          "0",
+          "2"
+        ],
+        [
+          "Without any support",
+          "1",
+          "0"
+        ],
+        [
+          "Self-reported reoffending, n",
+          "3*",
+          "5†"
+        ],
+        [
+          "Driving without license",
+          "2",
+          "2"
+        ],
+        [
+          "Illegal drug use",
+          "1",
+          "1"
+        ],
+        [
+          "Fraud",
+          "0",
+          "1"
+        ],
+        [
+          "Violent offense (illegal threat or assault)",
+          "1",
+          "3"
+        ],
+        [
+          "The 5 individuals reported a total of 7 offenses across all 4 separate offense types.",
+          "",
+          ""
+        ],
+        [
+          "*Number of individuals self-reporting committing any crime from prison release until 1-year follow-up. The 3 individuals reported a total of 4 offenses across 3 separate types.",
+          "",
+          ""
+        ],
+        [
+          "†Number of individuals self-reporting committing any crime between 1- and 3-year follow-up.",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_num": 4,
+      "page": 6,
+      "caption": "TABLE 4. Outcome for Male Prisoners With ADHD at 3-Year Follow-Up (n = 20) of a 52-Week OROS-Methylphenidate Trial, Comparing ADHD-Medicated (n = 15) With Nonmedicated (n = 5) Subjects at Follow-Up",
+      "headers": [
+        "Measure",
+        "Time Point",
+        "Full Sample at 3 y, Mean (SD), Median (n = 20)",
+        "Treated at 3 y, Mean (SD), Median (n = 15)",
+        "Untreated at 3 y, Mean (SD), Median (n = 5)",
+        "Comparison Treated vs Untreated Group Effect Size*",
+        "Comparison Treated vs Untreated Group P†"
+      ],
+      "rows": [
+        [
+          "CAARS: O-SV",
+          "Pre-trial",
+          "39.4 (5.1), 40.5",
+          "38.9 (4.4), 40",
+          "40.6 (7.2), 44",
+          "0.15",
+          "0.553"
+        ],
+        [
+          "",
+          "Posttrial",
+          "12.4 (7.1), 12",
+          "10.9 (8.5), 12",
+          "17.0 (9.9), 16",
+          "0.30",
+          "0.197"
+        ],
+        [
+          "",
+          "1-y follow-up",
+          "12.1 (8.5), 12",
+          "9.9 (7.2), 9",
+          "23.0 (5.2), 26",
+          "0.55",
+          "0.017"
+        ],
+        [
+          "",
+          "3-y follow-up",
+          "17.2 (10.3), 17",
+          "12.7 (6.9), 11.5",
+          "29.6 (7.7), 30",
+          "0.66",
+          "0.002"
+        ],
+        [
+          "ASRS",
+          "Pre-trial",
+          "55.6 (6.4), 56",
+          "56.2 (5.2), 56",
+          "53.6 (9.7), 51",
+          "0.11",
+          "0.672"
+        ],
+        [
+          "",
+          "Posttrial",
+          "26.5 (12.2), 25.5",
+          "22.6 (11.1), 17",
+          "38.2 (7.0), 37",
+          "0.53",
+          "0.015"
+        ],
+        [
+          "",
+          "1-y follow-up",
+          "24.9 (12.2), 26",
+          "20.9 (9.1), 25",
+          "39.8 (11.2), 39.5",
+          "0.59",
+          "0.006"
+        ],
+        [
+          "",
+          "3-y follow-up",
+          "27.4 (14.1), 27",
+          "22.2 (11.2), 18",
+          "43.2 (9.7), 45",
+          "0.62",
+          "0.004"
+        ],
+        [
+          "CGI-S",
+          "Pre-trial",
+          "5.8 (0.6), 6",
+          "5.9 (0.6), 6",
+          "5.8 (0.4), 6",
+          "0.03",
+          "0.933"
+        ],
+        [
+          "",
+          "Posttrial",
+          "3.0 (1.0), 3",
+          "2.7 (0.9), 3",
+          "3.8 (0.8), 4",
+          "0.46",
+          "0.053"
+        ],
+        [
+          "",
+          "1-y follow-up",
+          "2.9 (1.1), 2.5",
+          "2.6 (0.8), 2",
+          "4.3 (1.5), 4",
+          "0.50",
+          "0.056"
+        ],
+        [
+          "",
+          "3-y follow-up",
+          "3.4 (1.3), 3",
+          "2.9 (0.9), 3",
+          "5.0 (1.0), 5",
+          "0.68",
+          "0.002"
+        ],
+        [
+          "GAF",
+          "Pre-trial",
+          "35.8 (4.5), 36",
+          "34.9 (4.5), 35",
+          "38.8 (3.6), 40",
+          "0.40",
+          "0.081"
+        ],
+        [
+          "",
+          "Posttrial",
+          "72.4 (9.3), 71.5",
+          "74.9 (8.4), 78",
+          "64.8 (8.6), 65",
+          "0.46",
+          "0.042"
+        ],
+        [
+          "",
+          "1-y follow-up",
+          "68.7 (14.3), 70",
+          "71.4 (12.5), 75",
+          "55.0 (17.3), 65",
+          "0.35",
+          "0.164"
+        ],
+        [
+          "",
+          "3-y follow-up",
+          "66.5 (18.1), 65",
+          "71.1 (14.3), 68.5",
+          "53.6 (22.8), 45",
+          "0.37",
+          "0.107"
+        ],
+        [
+          "QOLI",
+          "Pre-trial",
+          "−0.8 (1.2), −1.1",
+          "−1.1 (1.3), −1.3",
+          "0.0 (0.6), 0.2",
+          "0.56",
+          "0.011"
+        ],
+        [
+          "",
+          "Posttrial",
+          "0.8 (1.2), 0.5",
+          "0.9 (1.3), 1.3",
+          "0.4 (0.9), 0.1",
+          "0.18",
+          "0.445"
+        ],
+        [
+          "",
+          "1-y follow-up",
+          "0.6 (1.6), 0.4",
+          "0.7 (1.5), 0.9",
+          "−0.2 (2.0), 0.3",
+          "0.13",
+          "0.596"
+        ],
+        [
+          "",
+          "3-y follow-up",
+          "1.2 (1.8), 0.9",
+          "1.3 (1.7), 1.1",
+          "1.0 (2.4), 0.1",
+          "0.06",
+          "0.849"
+        ],
+        [
+          "AUDIT",
+          "Pre-trial",
+          "4.1 (4.8), 2",
+          "2.7 (3.8), 2",
+          "9.0 (5.3), 10",
+          "0.48",
+          "0.037"
+        ],
+        [
+          "",
+          "Posttrial",
+          "5.1 (5.1), 3.5",
+          "3.3 (5.4), 2",
+          "10.4 (3.6), 13",
+          "0.54",
+          "0.015"
+        ],
+        [
+          "",
+          "1-y follow-up",
+          "3.4 (6.2), 3",
+          "1.6 (2.0), 0",
+          "9.8 (11.5), 4",
+          "0.56",
+          "0.025"
+        ],
+        [
+          "",
+          "3-y follow-up",
+          "4.6 (6.4), 4",
+          "2.2 (2.5), 1.5",
+          "11.4 (9.4), 10",
+          "0.53",
+          "0.026"
+        ],
+        [
+          "DUDIT",
+          "Pre-trial",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Posttrial",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "1-y follow-up",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "3-y follow-up",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "figure_num": 1,
+      "page": 3,
+      "caption": "Flowchart for 52-week OROS-methylphenidate (OROS-MPH) trial and observational 1- and 3-year follow-up assessments among male adult prisoners with ADHD.",
+      "description": "CONSORT-style flow diagram showing participant flow from clinical assessment through randomization to Placebo or OROS-MPH arms, through 5-week RCT, 47-week open-label extension, 52-week endpoint assessment, 1-year observational follow-up, and 3-year observational follow-up. Includes drop-outs and withdrawals at multiple stages for both arms. Key numbers: Clinically assessed n=34, Excluded n=4, Diagnosed with ADHD n=30, Consenting and randomly assigned n=30, Placebo n=15, OROS-MPH n=15. Placebo arm: Completed 5-week RCT and entered 47-week open-label extension with optimally titrated OROS-MPH n=15; Drop-outs n=2 (withdrew informed consent week 8: discontent with treatment dose; advance release due to improvement week 46 provided endpoint data); Withdrawals n=2 (protocol violation week 8 threatening behavior against other inmates; protocol violation week 48 did not return from leave of absence); Participated in 52-week end-point assessment n=12; Participated in 1-year observational follow-up clinical interview and/or self-report n=12, continuing medication n=9; Participated in 3-year observational follow-up clinical interview and/or self-report n=8, continuing medication n=6. OROS-MPH arm: Completed 5-week RCT and entered 47-week open-label extension with optimally titrated OROS-MPH n=15; Drop-outs n=1 (withdrew informed consent week 23 discontent with the ADHD prison wing); Withdrawals n=1 (Serious Adverse Event week 9 unconsciousness); Participated in 52-week end-point assessment n=13; Participated in 1-year observational follow-up clinical interview and/or self-report n=12, continuing medication n=11; Participated in 3-year observational follow-up clinical interview and/or self-report n=12, continuing medication n=9.",
+      "structured_data": "{\"Clinically assessed group\": 34, \"Excluded\": 4, \"Diagnosed with ADHD\": 30, \"Consenting and randomly assigned\": 30, \"Placebo\": 15, \"OROS-MPH\": 15, \"Placebo - Completed 5-week RCT and entered 47-week open-label extension\": 15, \"Placebo - Drop-outs\": 2, \"Placebo - Drop-out reason 1\": \"Withdrew informed consent week 8 (discontent with treatment dose)\", \"Placebo - Drop-out reason 2\": \"Advance release due to improvement week 46 (provided endpoint data)\", \"Placebo - Withdrawals\": 2, \"Placebo - Withdrawal reason 1\": \"Protocol violation week 8 (threatening behavior against other inmates)\", \"Placebo - Withdrawal reason 2\": \"Protocol violation week 48 (did not return from leave of absence)\", \"Placebo - Participated in 52-week end-point assessment\": 12, \"Placebo - 1-year follow-up clinical interview and/or self-report\": 12, \"Placebo - 1-year follow-up continuing medication\": 9, \"Placebo - 3-year follow-up clinical interview and/or self-report\": 8, \"Placebo - 3-year follow-up continuing medication\": 6, \"OROS-MPH - Completed 5-week RCT and entered 47-week open-label extension\": 15, \"OROS-MPH - Drop-outs\": 1, \"OROS-MPH - Drop-out reason 1\": \"Withdrew informed consent week 23 (discontent with the ADHD prison wing)\", \"OROS-MPH - Withdrawals\": 1, \"OROS-MPH - Withdrawal reason 1\": \"Serious Adverse Event week 9 (unconsciousness)\", \"OROS-MPH - Participated in 52-week end-point assessment\": 13, \"OROS-MPH - 1-year follow-up clinical interview and/or self-report\": 12, \"OROS-MPH - 1-year follow-up continuing medication\": 11, \"OROS-MPH - 3-year follow-up clinical interview and/or self-report\": 12, \"OROS-MPH - 3-year follow-up continuing medication\": 9}"
+    },
+    {
+      "figure_num": 2,
+      "page": 5,
+      "caption": "Observer-rated ADHD symptom improvement (CAARS: O-SV) among adult male prisoner participants in a 52-week OROS-methylphenidate trial, and 1- (n = 20) and 3-year (n = 15) observational posttrial follow-ups (FU).",
+      "description": "A line graph showing CAARS O-SV scores (y-axis, range 0-45) over time (x-axis: Pre-trial, Post-trial, 1-year FU, 3-year FU) for two groups: 'Treated at 3-Y FU' (solid line with filled circles) and 'Non-treated at 3-Y FU' (dashed line with open squares). Treated group: Pre-trial ~40, Post-trial ~15, 1-year FU ~13, 3-year FU ~11. Non-treated group: Pre-trial ~38, Post-trial ~17, 1-year FU ~25, 3-year FU ~30.",
+      "structured_data": "{\"series\":[{\"name\":\"Treated at 3-Y FU\",\"data_points\":[{\"time\":\"Pre-trial\",\"CAARS_OSV\":40},{\"time\":\"Post-trial\",\"CAARS_OSV\":15},{\"time\":\"1-year FU\",\"CAARS_OSV\":13},{\"time\":\"3-year FU\",\"CAARS_OSV\":11}]},{\"name\":\"Non-treated at 3-Y FU\",\"data_points\":[{\"time\":\"Pre-trial\",\"CAARS_OSV\":38},{\"time\":\"Post-trial\",\"CAARS_OSV\":17},{\"time\":\"1-year FU\",\"CAARS_OSV\":25},{\"time\":\"3-year FU\",\"CAARS_OSV\":30}]}],\"y_axis_label\":\"CAARS-O-SV score\",\"y_axis_range\":\"0-45\",\"x_axis_label\":\"Time\",\"n_treated\":15,\"n_nontreated\":5}"
+    }
+  ],
+  "total_iterations": 10,
+  "status": "complete",
+  "session_file": "D:\\MadeAI\\MAS\\Harness_With_Without\\With_Harness\\pdf_extraction_harness\\sessions\\ginsberg_2015_session.jsonl",
+  "extraction_method": "Vision-based (Claude Vision + PyMuPDF)"
+}

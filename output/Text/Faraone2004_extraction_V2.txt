@@ -1,0 +1,293 @@
+{
+  "pdf": "Faraone2004.pdf",
+  "extraction_date": "2026-05-29T15:17:59.828333",
+  "total_pages": 6,
+  "text": [
+    "Meta-Analysis of the Efficacy of Methylphenidate for Treating Adult Attention-Deficit/Hyperactivity Disorder\n\nStephen V. Faraone, PhD,*†‡ Thomas Spencer, MD,*† Megan Aleardi,* Christine Pagano,* and Joseph Biederman, MD*†\n\nAbstract: This article reviews the efficacy of methylphenidate (MPH) for adult attention-deficit/hyperactivity disorder (ADHD). A literature search identified double-blind placebo-controlled MPH treatment studies of ADHD adults. Meta-analysis estimated the pooled effect size for MPH treatment and tested for publication bias. Meta-analysis regression assessed the influence of study design features on medication effects. Six trials met criteria and were included in this meta-analysis. These studies included a total of 140 MPH-treated ADHD adults and 113 placebo-treated ADHD adults. The mean effect size of 0.9 was statistically significant and there was no evidence of publication bias. Larger MPH effect sizes were associated with physician ratings of outcome and use of higher doses. When treatment is optimized to high doses, the effect size for MPH in adults was 1.3. We found strong support for the assertion that MPH is efficacious for treating adult ADHD. Because the degree of efficacy of MPH in treating ADHD adults is similar to what has been reported from meta-analyses of the child and adolescent literature, our work provides further assurance to clinicians that the diagnosis of ADHD can be validly applied in adulthood.\n\n(J Clin Psychopharmacol 2004;24:24-29)\n\nFor decades, methylphenidate (MPH) has been one of the first-line treatments for attention-deficit/hyperactivity disorder (ADHD), which, because of its associated impairments1 and high prevalence around the world,2 is a serious public health problem. MPH reduces the overactivity, impulsivity, and inattentiveness of ADHD patients and improves on-task behavior, academic performance, and social functioning.3\n\nMany studies have assessed the efficacy of MPH for treating ADHD in childhood. Meta-analyses of these studies show the effect to be robust and statistically significant. By pooling data across studies, meta-analysis systematically evaluates the size and generalizability of drug effects. The meta-analysis of Schachter et al4 identified 62 randomized studies of MPH in patients aged 18 years and less (median age 8.7 years). The patients had been diagnosed with either attention-deficit disorder or ADHD. They found significant effect sizes for teacher (0.8) and parent (0.5) reports of changes in ADHD symptoms. Smith et al5 performed a systematic review of MPH treatment studies of adolescents and identified 8 placebo-controlled studies. These studies involved 214 adolescents in total and a mean duration of 6 weeks. All 8 studies reported statistically significant improvements in ADHD symptoms for MPH relative to placebo, with a mean effect size of 0.9. Consistent with the results of these efficacy studies, several practice guidelines recommend the use of MPH as first-line therapy for ADHD.6-9\n\nIn contrast to the meta-analyses of MPH response for childhood ADHD, no such analyses have been completed for adult ADHD. The present study seeks to fill this gap in the literature by applying meta-analysis to the literature on the MPH treatment of adult ADHD. Our goals were to estimate the effect size for MPH therapy in adults and determine if features of study design influenced the estimate of medication efficacy.\n\nMETHODS\n\nWe searched for relevant articles using the following search engines: Pubmed, Ovid, ERIC, Cinahl, MEDLINE, PreMEDLINE, the Cochrane database, e-psyche, and social sciences abstracts. We placed no limit on the year of publication. Citations from identified articles were searched for relevant studies. We only included studies using randomized, double-blind methodology with placebo controls. To assure the relevance of these studies to current diagnostic conceptions of ADHD and make the results comparable with meta-analyses of literature on children, we required studies to have selected patients using DSM-III, DSM-III-R, or DSM-IV diagnostic criteria. To be included,",
+    "studies must have presented the means and standard devia-\ntions of either change scores or end point scores for the drug\nand placebo groups.\nThe concept of effect size was developed to facilitate\ncomparisons of efficacy between studies. Without using this\nconcept, comparing 2 studies can be difficult. Consider this\nexample. If one study measures efficacy using the Conners\nADHD Rating Scale and another uses the SNAP ADHD rating\nscale and both report improvement scores, we cannot compare\nthe results because a 1-point improvement on the Conners\nScale is not equivalent to a 1-point improvement on the SNAP\nscale. Even if 2 studies use the same scale, we cannot simply\ncompare mean change scores between drug and placebo\nbecause these studies may differ in their precision of\nmeasurement. We should have more faith in precise measures\nthan imprecise ones. These problems of differing scales of\nmeasurement and differing precision of measurement make it\ndifficult to compare treatment studies. Fortunately, these\nproblems are overcome by the computation of effect size,\nwhich gives us the difference in improvement between\ndrug and placebo adjusted for the scale and accuracy of\nthe measurements used in each study.\nEffect sizes for each dependent measure in each study\nwere expressed as the standardized mean difference (SMD)\nbetween drug and placebo outcome scores. The SMD is\ncomputed by taking the mean outcome score of the active drug\ngroup minus the mean outcome score of the placebo group and\ndividing the result by the pooled standard deviation of the\ngroups. Studies reporting change scores provided end point\nminus baseline scores for drug and placebo groups. In this\ncase, the SMD is computed as the difference between change\nscores. For studies reporting end point scores, the SMD is\ncomputed as the difference between end point scores. Studies\nwere weighted by the precision of their SMD estimate (which\nis proportional to the study sample size). The meta-analysis\nused the random effects model of DerSimonian and Laird.10\nTo determine if the results of the meta-analysis were unduly\ninfluenced by one study, we conducted a sensitivity analysis\nby recomputing the pooled SMD after deleting each study\nobservation of drug-placebo differences one at a time. Meta-\nanalytic regression determined if the effect sizes varied with\nstudy design features.\nMeta-analyses can be misleading if the available\nliterature is biased toward excluding negative studies. This\nmight occur, for example, if an investigator decided to not\nwrite up results of a negative study. We assessed publication\nbias using the method of Egger et al,11 which regresses the\nstandardized effect size (the standardized effect size divided\nby its standard error) against the precision of the SMD (the\ninverse of its standard error). In the absence of bias, the\nregression of the standardized effect size on the precision\nshould plot a line with positive slope that runs through the\norigin (ie, small samples with low precision should have\nlarge standard errors and small standardized effect sizes; large\nsamples have higher precision, smaller standard errors, and\nshould have large standardized effect sizes). Egger et al’s\npublication bias statistic is the intercept of the regression,\nwhich will be significantly greater than zero in the presence\nof bias.\nSeveral studies provided data on more than one measure\n(eg, hyperactive-impulsive symptoms and inattentive symp-\ntoms). Because measures reported from the same study are not\nstatistically independent from one another, standard statistical\nprocedures will produce inaccurate P values. To address this\nintrafamily clustering, variance estimates were adjusted using\nthe formula of Huber12 as implemented in Stata.13 This\nformula is a ‘‘theoretical bootstrap’’ that produces robust\nstatistical tests. The method works by adjusting the estimate of\nvariance to account for nonindependent observations. The\nresulting P values are valid even when observations are not\nstatistically independent of one another.\nRESULTS\nSix articles met criteria for inclusion in the meta-\nanalysis.14–19 These studies included a total of 140 MPH-\ntreated ADHD adults and 113 placebo-treated ADHD adults.\nBecause some articles reported data on more than one\noutcome score, the 6 articles provided 10 drug-placebo\ncomparisons that could be used for computing effect sizes.\nTable 1 describes the main features of each study. Table 2\ngives the effect size for each study expressed as the SMD\nbetween the MPH and placebo conditions. The mean effect\nsize of 0.9 was statistically significant (z = 4.3, P < 0.001). Our\nsensitivity analysis found that no one observation accounted\nfor the statistically significant mean effect size, ie, the mean\neffect size remained significant when computed after deleting\neach observation one at a time (all P’s > 0.05). The Egger\npublication bias statistic was small (0.5) and not statistically\nsignificant (t8 = 0.2, P = 0.9). The publication bias graph in\nFigure 1 shows the expected pattern; the larger, more precise\nstudies yielded larger standardized effect sizes and thus more\nevidence for drug-placebo differences. The effect sizes in\nTable 2 range from a low of \u00040.24 to a high of 2.3. This\nvariability among studies was statistically significant (x9\n2 = 47,\nP < 0.001), which indicates the presence of systematic\ndifferences among studies. We searched for possible expla-\nnations of between study differences using meta-analysis\nregression to predict effect sizes from study features. These\nresults are given in Table 3, which shows significant effects\nfor type of rater and dose but not for study design (crossover\nvs. parallel). Larger MPH effect sizes were associated with\nphysician ratings of outcome and use of higher doses. We de-\nfined high-dose MPH studies as those having a mean dose of\n0.9 mg/kg/day or greater. The mean daily doses were 44 mg\n(0.63 mg/kg) for the low-dose group and 70 mg (1.05 mg/kg)\nn 2004 Lippincott Williams & Wilkins\n25\nJournal of Clinical Psychopharmacology \u0003 Volume 24, Number 1, February 2004\nMeta-Analysis of Medications for ADHD\nCopyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.",
+    "for the high-dose group. Kuperman et al19 did not provide daily dose data and was not included in these analyses. The effect size for crossover studies was greater than the effect size for parallel studies but the difference was not significant. The following variables were not associated with the MPH effect size: date of study, proportion of male subjects in the sample, and length of the study protocol (all P's > 0.05).\n\nDISCUSSION\n\nOur meta-analysis of double-blind placebo-controlled studies of the efficacy of MPH for adult ADHD supports the assertion that MPH is efficacious for the treatment of adult ADHD, particularly when used in weight-corrected doses equipotent to those used in pediatric studies. The pooled effect size across studies (0.9) is comparable to those computed in the meta-analysis of Schachter et al4 of 62 studies of MPH in children and adolescents, which reported significant effect sizes for teacher (0.8) and parent (0.5) reports of changes in ADHD symptoms. The analysis of Smith et al5 of 8 adolescent studies found a mean effect size of 0.9. The mean effect size from our meta-analysis (0.9) shows the effect of MPH for adults with ADHD is in the same range as that reported for children and adolescents with ADHD and that these positive results cannot be attributed to publication biases.\n\nBecause effect sizes compare results across different studies using different measures, it cannot be interpreted as a difference in rating scale points or percent improvement. How then are we to interpret SMDs? One approach is to use the widely accepted guidelines of Cohen (1988).20 For SMDs computed by research in the behavioral sciences, he defined 0.2 as small, 0.5 as medium, and 0.8 as large. He gives the mean height difference between 15-year-old and 16-year-old girls, which is 1/2 in, as an example of a small effect size. The height difference between 14-year-old and 18-year-old girls",
+    "(about 1 in) is his example of a medium effect size and the height difference between 13-year-old and 18-year-old girls (about 1½ in) is a large effect size. Another example can be made from differences in intelligence as measured by the Wechsler IQ scales. If a medication increased IQ by 3 points, we would say it had a small effect. We would call an increase of 7½ IQ points a medium effect and an increase of 12 IQ points a large effect.\n\nOur meta-analysis excluded studies not meeting our inclusion criteria. We excluded 2 open trials. One reported a 70% response rate using doses of 40 mg/day.21 The other was a study of cocaine abusers with ADHD. It showed improvement of ADHD symptoms, reduction of cocaine cravings, and no abuse of MPH.22 We excluded the double-blind parallel study of Wood et al23 because they did not use structured diagnostic criteria. Instead, they used the diagnosis of minimal brain dysfunction to select patients for study. Using a low mean dose of 27 mg/day, they found a 53% improvement rate in MPH-treated adults with minimal brain dysfunction. We excluded the double-blind crossover study of Iaboni et al24 because it did not provide the data needed to compute an effect size. These authors reported moderate improvement with MPH using relatively low doses of 30 to 45 mg/day. Thus, it is reassuring that, as a group, the excluded studies are consistent with our meta-analysis in supporting the efficacy of high-dose MPH in adults with ADHD.\n\nOne useful methodological finding from our meta-analysis regression was that physician ratings led to higher effect sizes compared with self-ratings. Although self-ratings may be sufficiently reliable and sensitive in some contexts, they do not appear to be as useful as physician ratings for detecting response to MPH. We also found that higher doses led to nearly twice the effect size than lower doses (1.3 vs. 0.7). We defined high-dose MPH studies as those having a mean dose of 0.9 mg/kg/day or greater. The mean daily doses were 44 mg (0.63 mg/kg) for the low-dose group and 70 mg (1.05 mg/kg) for the high-dose group.\n\nAlthough we were not surprised to find that high doses were more efficacious than low doses, these results should assure those clinicians who remain skeptical about the diagnosis of ADHD in adults. Because, compared with children, symptoms in adults are less disruptive, case identification requires careful interviewing about symptoms of inattention, restlessness, impulsivity, and disorganization.25 Moreover, diagnosing ADHD in adulthood requires clinicians to make an accurate retrospective diagnosis of childhood onset ADHD, which may be difficult in older patients. Some studies suggest retrospective diagnoses are valid26-28 but others question their validity.29,30 And, prior to the completion of high-dose MPH studies of adults, the lower efficacy reported by the early MPH studies raised further concerns about the validity of the adult ADHD diagnosis.30 Because of these concerns, the disorder has not been routinely assessed in clinical settings, as seen in our survey of primary care clinics, which showed low identification and treatment of adults with ADHD.31\n\nWe also found significant differences among studies in the MPH effect size. Notably, studies using the patient's self-ratings of ADHD symptoms to assess efficacy resulted in low effect sizes. This suggests that such ratings may not be as informative for detecting change in ADHD symptoms as clinician-based rating. Thus, in clinical and research settings, clinician ratings should be used to assess symptom change during treatment. Our finding of a statistically significant effect of dose provides quantitative support for the hypothesis of Spencer et al17 that early studies of MPH use in adult ADHD had not found robust response rates because they used low doses. Our meta-analysis shows that when treatment is optimized to high doses, the effect size for MPH in adults is 1.3. Lower doses led to substantially lower efficacy (0.7). The importance of optimal dosing for assuring high efficacy has also been stressed in MPH studies of ADHD youth. Most notable in this regard are results from the large NIMH Multimodal Treatment of ADHD study.32 The Multimodal Treatment of ADHD study compared ADHD youth treated in the community with ADHD youth who had treatment optimized by the study investigators. Compared with the community-treated group, the group treated by the study investigators received more doses per day, higher daily doses, and showed more improvement in their ADHD symptoms.\n\nThis work must be interpreted in light of several limitations. Compared with studies of child and adolescent ADHD, there are few MPH treatment studies of adult ADHD. Thus, the sample size for our meta-analysis was small. Because meta-analysis relies on data collected by others, the validity and strength of our conclusions relies on the quality of the individual studies, which was beyond our control.",
+    "Although our inclusion criteria required each study to meet criteria for study quality (use of double-blind placebo-controlled methods, selection of subjects with structured diagnostic criteria), other features of these studies may account for some of the interstudy variability in results.\n\nAnother limitation is that our analysis did not address the use of other medications for adult ADHD. We could not do this because there are not enough data for any one of these to conduct a meta-analysis. Even so, clinicians should note that efficacy for adult ADHD has been shown for atomoxetine, mixed amphetamine salts, tricyclic antidepressants, and bupropion.\n\nAlthough these limitations stress the need for further pharmacotherapy studies of adult ADHD, they do not undermine the key conclusions of this study. MPH shows high efficacy for adult ADHD, especially when doses are optimized to high levels. Because the efficacy of MPH for adult ADHD is similar to that reported from meta-analyses of the child and adolescent literature, our work provides further assurance to clinicians that the diagnosis of ADHD can be validly applied in adulthood.\n\nACKNOWLEDGMENTS\n\nThis work was supported, in part, by a grant from McNeil Consumer and Specialty Pharmaceuticals to Stephen Faraone PhD.\n\nREFERENCES\n\n1. Barkley RA, ed. Attention Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment. New York: Guilford Press; 1998.\n2. Faraone SV, Sergeant J, Gillberg C, et al. The worldwide prevalence of ADHD: is it an American condition? World Psychiatry. 2003;2:104-113.\n3. Greenhill LL, Pliszka S, Dulcan MK, et al. Summary of the practice parameter for the use of stimulant medications in the treatment of children, adolescents, and adults. J Am Acad Child Adolesc Psychiatry. 2001;40:1352-1355.\n4. Schachter HM, Pham B, King J, et al. How efficacious and safe is short-acting methylphenidate for the treatment of attention-deficit disorder in children and adolescents? A meta-analysis. CMAJ. 2001;165:1475-1488.\n5. Smith BH, Waschbusch DA, Willoughby MT, et al. The efficacy, safety, and practicality of treatments for adolescents with attention-deficit/hyperactivity disorder (ADHD). Clin Child Fam Psychol Rev. 2000;3:243-267.\n6. Greenhill L, Beyer DH, Finkleson J, et al. Guidelines and algorithms for the use of methylphenidate in children with attention-deficit/hyperactivity disorder. J Attent Disord. 2002;6:89-100.\n7. Pliszka SR, Greenhill LL, Crismon ML, et al. The Texas Children's Medication Algorithm Project: report of the Texas Consensus Conference Panel on medication treatment of childhood attention-deficit/hyperactivity disorder. Part II: Tactics. Attention-deficit/hyperactivity disorder. J Am Acad Child Adolesc Psychiatry. 2000;39:920-927.\n8. Greenhill LL, Pliszka S, Dulcan MK, et al. Practice parameter for the use of stimulant medications in the treatment of children, adolescents, and adults. J Am Acad Child Adolesc Psychiatry. 2002;41:26S-49S.\n9. Dulcan M. Practice parameters for the assessment and treatment of children, adolescents, and adults with attention-deficit/hyperactivity disorder. American Academy of Child and Adolescent Psychiatry. J Am Acad Child Adolesc Psychiatry. 1997;36:85S-121S.\n10. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials. 1986;7:177-188.\n11. Egger M, Davey Smith G, Schneider M, et al. Bias in meta-analysis detected by a simple, graphical test. BMJ. 1997;315:629-634.\n12. Huber PJ. The behavior of maximum likelihood estimates under nonstandard conditions. Proc 5th Berkeley Symp Math Stat Prob. 1967;1:221-233.\n13. Stata Corporation ed. Stata User's Guide: Release 7.0. College Station, TX: Stata Corporation; 2001.\n14. Mattes JA, Boswell L, Oliver H. Methylphenidate effects on symptoms of attention deficit disorder in adults. Arch Gen Psychiatry. 1984;41:1059-1063.\n15. Wender PH, Reimherr FW, Wood DR, et al. A controlled study of methylphenidate in the treatment of attention deficit disorder, residual type, in adults. Am J Psychiatry. 1985;142:547-552.\n16. Gualtieri CT, Ondrusek MG, Finley C. Attention deficit disorders in adults. Clin Neuropharmacol. 1985;8:343-356.\n17. Spencer T, Wilens T, Biederman J, et al. A double-blind, crossover comparison of methylphenidate and placebo in adults with childhood-onset attention-deficit hyperactivity disorder. Arch Gen Psychiatry. 1995;52:434-443.\n18. Spencer TJ, Biederman J. Efficacy in a 6-Month Trial of Methylphenidate in Adults With ADHD. Scientific Proceedings of the 49th Annual Meeting: American Academy of Child and Adolescent Psychiatry. San Francisco, CA:AACAP; 2002.\n19. Kuperman S, Perry PJ, Gaffney G, et al. Bupropion SR vs. methylphenidate vs. placebo for attention deficit hyperactivity disorder in adults. Ann Clin Psychiatry. 2001;13:129-134.\n20. Cohen J. Statistical Power Analysis for the Behavioral Sciences. New York: Academic Press; 1988.\n21. Shekim WO, Asarnow RF, Hess E, et al. A clinical and demographic profile of a sample of adults with attention deficit hyperactivity disorder, residual state. Compr Psychiatry. 1990;31:416-425.\n22. Levin FR, Evans SM, McDowell DM, et al. Methylphenidate treatment for cocaine abusers with adult attention-deficit/hyperactivity disorder: a pilot study. J Clin Psychiatry. 1998;59:300-305.\n23. Wood DR, Reimherr FW, Wender PH, et al. Diagnosis and treatment of minimal brain dysfunction in adults: a preliminary report. Arch Gen Psychiatry. 1976;33:1453-1460.\n24. Iaboni F, Bouffard R, Minde K, et al. The efficacy of methylphenidate in treating adults with attention-deficit/hyperactivity disorder. Philadelphia, PA: American Academy of Child and Adolescent Psychiatry; 1996.\n25. Adler LA, Chua HC. Management of ADHD in Adults. J Clin Psychiatry. 2002;63:29-35.\n26. Murphy P, Schachar R. Use of self-ratings in the assessment of symptoms of attention deficit hyperactivity disorder in adults. Am J Psychiatry. 2000;157:1156-1159.\n27. Biederman J, Faraone SV, Knee D, et al. Retrospective assessment of DSM-III attention deficit disorder in non-referred individuals. J Clin Psychiatry. 1990;51:102-106.\n28. Faraone SV, Biederman J, Feighner JA, et al. Assessing symptoms of attention deficit hyperactivity disorder in children and adults: which is more valid? J Consult Clin Psychol. 2000;68:830-842.\n29. Mannuzza S, Klein RG, Klein DF, et al. Accuracy of adult recall of childhood attention deficit hyperactivity disorder. Am J Psychiatry. 2002;159:1882-1888.\n30. Shaffer D. Attention deficit hyperactivity disorder in adults. Am J Psychiatry. 1994;151:633-638.\n31. Faraone SV, Spencer T, Montano CB, et al. Attention deficit hyperactivity disorder in adults: a survey of current practice in psychiatry and primary care. Arch Intern Med. In press.\n32. The MTA Cooperative Group. A 14-month randomized clinical trial of treatment strategies for attention-deficit/hyperactivity disorder. The MTA Cooperative Group. Multimodal treatment study of children with ADHD [see comments]. Arch Gen Psychiatry. 1999;56:1073-1086.",
+    "33. Michelson D, Adler L, Spencer T, et al. Atomoxetine in adults with ADHD: two randomized, placebo-controlled studies. Biol Psychiatry. 2003;53:112-120.\n34. Spencer T, Biederman J, Wilens T, et al. Efficacy of a mixed amphetamine salts compound in adults with attention-deficit/hyperactivity disorder. Arch Gen Psychiatry. 2001;58:775-782.\n35. Wilens TE, Biederman JB, Mick E, et al. A systematic assessment of tricyclic antidepressants in the treatment of adult attention-deficit hyperactivity disorder. J Nerv Ment Dis. 1995;183:48-50.\n36. Wilens TE, Biederman J, Prince J, et al. Six-week, double-blind, placebo-controlled study of desipramine for adult attention deficit hyperactivity disorder. Am J Psychiatry. 1996;153:1147-1153.\n37. Spencer T, Biederman J, Wilens T, et al. Effectiveness and tolerability of tomoxetine in adults with attention deficit hyperactivity disorder. Am J Psychiatry. 1998;155:693-695.\n38. Wilens TE, Spencer TJ, Biederman J, et al. A controlled clinical trial of bupropion for attention deficit hyperactivity disorder in adults. Am J Psychiatry. 2001;158:282-288.\n39. Riggs P, Leon S, Mikulich S, et al. An open trial of buproprion for ADHD in adolescents with substance use disorder and conduct disorder. J Am Acad Child Adolesc Psychiatry. 1998;37:1271-1278.\n40. Wilens T, Spencer T, Biederman J. A review of the pharmacotherapy of adults with attention-deficit/hyperactivity disorder. J Attent Disord. 2002;5:189-202."
+  ],
+  "tables": [
+    {
+      "table_num": 1,
+      "page": 3,
+      "caption": "Study Design Features of Double-blind Studies of Methylphenidate for Adult ADHD",
+      "headers": [
+        "Authors",
+        "Date",
+        "Dosing Method",
+        "Recalculated Daily Dose, mg/kg",
+        "Designs",
+        "Number in MPH Group",
+        "Number in Placebo Group",
+        "Mean Age, y",
+        "% Male",
+        "Diagnostic System"
+      ],
+      "rows": [
+        [
+          "Mattes et al14",
+          "1984",
+          "Best",
+          "0.7*",
+          "Crossover",
+          "8",
+          "8",
+          "",
+          "",
+          "DSM-III"
+        ],
+        [
+          "Wender et al15",
+          "1985",
+          "Best",
+          "0.6*",
+          "Crossover",
+          "37",
+          "37",
+          "31",
+          "54",
+          "DSM-III"
+        ],
+        [
+          "Gualtieri et al16",
+          "1985",
+          "Fixed",
+          "0.6*",
+          "Crossover",
+          "8",
+          "8",
+          "27",
+          "100",
+          "DSM-III"
+        ],
+        [
+          "Spencer et al17",
+          "1995",
+          "Best",
+          "1.0",
+          "Crossover",
+          "23",
+          "23",
+          "40",
+          "43",
+          "DSM-III-R"
+        ],
+        [
+          "Kuperman et al19",
+          "2001",
+          "Best",
+          "0.9†",
+          "Parallel",
+          "8",
+          "11",
+          "31",
+          "75",
+          "DSM-IV"
+        ],
+        [
+          "Spencer and Biederman18",
+          "2002",
+          "Best",
+          "1.1",
+          "Parallel",
+          "56",
+          "26",
+          "39",
+          "59",
+          "DSM-IV"
+        ]
+      ]
+    },
+    {
+      "table_num": 2,
+      "page": 3,
+      "caption": "Effect Sizes for Each Study",
+      "headers": [
+        "Authors",
+        "Type of Score",
+        "Rater",
+        "SMD*"
+      ],
+      "rows": [
+        [
+          "Mattes et al14",
+          "Global improvement",
+          "Physician",
+          "1.3"
+        ],
+        [
+          "Wender et al15",
+          "Global rating",
+          "Physician",
+          "0.3"
+        ],
+        [
+          "Wender et al15",
+          "Global Assessment Scale",
+          "Physician",
+          "0.9"
+        ],
+        [
+          "Gualtieri et al16",
+          "ADHD symptoms",
+          "Self",
+          "0.3"
+        ],
+        [
+          "Spencer et al17",
+          "ADHD Rating Scale Hyperactivity",
+          "Physician",
+          "1.1"
+        ],
+        [
+          "Spencer et al17",
+          "ADHD Rating Scale Impulsivity",
+          "Physician",
+          "2.3"
+        ],
+        [
+          "Spencer et al17",
+          "ADHD Rating Scale Inattention",
+          "Physician",
+          "0.5"
+        ],
+        [
+          "Kuperman et al19",
+          "ADHD Rating Scale Total",
+          "Self",
+          "-0.2"
+        ],
+        [
+          "Spencer and Biederman18",
+          "ADHD Rating Scale Total",
+          "Physician",
+          "1.4"
+        ]
+      ]
+    },
+    {
+      "table_num": 3,
+      "page": 4,
+      "caption": "Association of Study Design Features With Effect Size",
+      "headers": [
+        "Study Feature",
+        "Effect Size",
+        "Statistical Comparison"
+      ],
+      "rows": [
+        [
+          "Study design",
+          "",
+          ""
+        ],
+        [
+          "Crossover",
+          "0.9",
+          "t5 = 0.3, P = 0.8"
+        ],
+        [
+          "Parallel",
+          "0.7",
+          ""
+        ],
+        [
+          "Rater",
+          "",
+          ""
+        ],
+        [
+          "Physician",
+          "1.1",
+          "t5 = 3.3, P = 0.02"
+        ],
+        [
+          "Self",
+          "0.03",
+          ""
+        ],
+        [
+          "Dose*",
+          "",
+          ""
+        ],
+        [
+          "High",
+          "1.3",
+          "mg/day: t4 = 3.7, P = 0.02"
+        ],
+        [
+          "Low",
+          "0.7",
+          "mg/kg/day: t4 = 4.5, P = 0.01"
+        ]
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "figure_num": 1,
+      "page": 3,
+      "caption": "Publication bias graph.",
+      "description": "A scatter plot showing Standardized Effect (y-axis, ranging approximately from -5 to 10) versus Study Precision (x-axis, ranging from 0 to 4). A regression line runs from lower-left to upper-right indicating a slight positive trend. Data points are scattered around the line: one point near (0.3, 0.3), one near (0.5, -0.2), one near (1.0, 2.3), one near (2.0, 1.3), one near (3.0, 5.0), one near (3.5, 1.4), one near (4.0, 1.1). The regression line starts near (0, 0.5) and ends near (4, 2.5).",
+      "structured_data": "{\"extraction_method\": \"visual_estimation_from_plot_image\", \"accuracy_level\": \"high\", \"x_axis\": \"Study Precision\", \"y_axis\": \"Standardized Effect\", \"regression_line\": {\"start\": {\"x\": 0, \"y\": 0.5}, \"end\": {\"x\": 4, \"y\": 2.5}}, \"data_points\": [{\"x\": 0.3, \"y\": 0.3, \"confidence\": \"high\"}, {\"x\": 0.5, \"y\": -0.2, \"confidence\": \"high\"}, {\"x\": 1.0, \"y\": 2.3, \"confidence\": \"high\"}, {\"x\": 2.0, \"y\": 1.3, \"confidence\": \"high\"}, {\"x\": 3.0, \"y\": 5.0, \"confidence\": \"high\"}, {\"x\": 3.5, \"y\": 1.4, \"confidence\": \"high\"}, {\"x\": 4.0, \"y\": 1.1, \"confidence\": \"high\"}], \"confidence_notes\": {\"x_axis\": \"±0.2 units (visual estimate)\", \"y_axis\": \"±0.5 units (visual estimate)\", \"overall\": \"These are visual approximations from the plot image\"}, \"IMPORTANT\": {\"method\": \"Visual coordinate extraction from scatter plot image\", \"precision\": \"Approximate (±0.5 on y-axis, ±0.2 on x-axis)\", \"use_case\": \"Suitable for understanding plot trends, NOT for mathematical re-analysis\", \"publication_safety\": \"Only publish if accompanied by: 'Figure coordinates are visual estimates from plot image'\", \"recommendation\": \"Do not use these coordinates for quantitative re-analysis without manual verification\"}}"
+    }
+  ],
+  "total_iterations": 7,
+  "status": "complete",
+  "session_file": "D:\\MadeAI\\MAS\\Harness_With_Without\\With_Harness\\pdf_extraction_harness\\sessions\\faraone2004_session.jsonl",
+  "extraction_method": "Vision-based (Claude Vision + PyMuPDF)",
+  "pages": [
+    {
+      "page": 1,
+      "text": true,
+      "tables": 0,
+      "figures": 0,
+      "status": "complete",
+      "qa_flag": "zero_content"
+    },
+    {
+      "page": 2,
+      "text": true,
+      "tables": 0,
+      "figures": 0,
+      "status": "complete",
+      "qa_flag": "zero_content"
+    },
+    {
+      "page": 3,
+      "text": true,
+      "tables": 2,
+      "figures": 1,
+      "status": "complete",
+      "qa_flag": "ok"
+    },
+    {
+      "page": 4,
+      "text": true,
+      "tables": 1,
+      "figures": 0,
+      "status": "complete",
+      "qa_flag": "ok"
+    },
+    {
+      "page": 5,
+      "text": true,
+      "tables": 0,
+      "figures": 0,
+      "status": "complete",
+      "qa_flag": "zero_content"
+    },
+    {
+      "page": 6,
+      "text": true,
+      "tables": 0,
+      "figures": 0,
+      "status": "complete",
+      "qa_flag": "zero_content"
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+{
+  "pdf": "Jiang2019.pdf",
+  "extraction_date": "2026-06-04T16:14:42.118213",
+  "total_pages": 8,
+  "text": [
+    "Received: 7 August 2018 | Revised: 24 November 2018 | Accepted: 29 November 2018\nDOI: 10.1002/pds.4716\n\nREVIEW\n\nMaternal and neonatal outcomes after exposure to ADHD medication during pregnancy: A systematic review and meta-analysis\n\nHai-yin Jiang1 | Xue Zhang1 | Chun-ming Jiang2 | Hai-bin Fu3\n\n1 Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, the First Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou, China\n2 Department of Pediatrics, the Affiliated Hangzhou First People's Hospital, School of Medicine, Zhejiang University, Hangzhou, China\n3 Department of General Internal Medicine, Tongde Hospital of Zhejiang Province, Hangzhou, China\n\nCorrespondence\nH. Fu, Department of General Internal Medicine, Tongde Hospital of Zhejiang Province, Hangzhou, Zhejiang, China.\nEmail: haibinfu@126.com\n\nFunding information\nNational Key Stone Basic Research Program (973 Program) of China, Grant/Award Number: 2013CB531401; National Natural Science Foundation of China, Grant/Award Number: 81601186\n\nAbstract\nPurpose: Attention-deficit/hyperactivity disorder (ADHD) medications are used by increasing numbers of reproductive-age women. The safety of these medications during pregnancy has not been well described.\n\nMethods: A systematic review and meta-analysis was performed to evaluate the adverse maternal and neonatal outcomes associated with exposure to ADHD medication during pregnancy. The PubMed and Embase databases were searched to identify potential studies for inclusion.\n\nResults: Eight cohort studies that estimated adverse maternal or neonatal outcomes associated with exposure to ADHD medication during pregnancy were included. Exposure to ADHD medication was associated with an increased risk of neonatal intensive care unit (NICU) admission compared with no exposure at any time (risk ratio (RR) 1.88; 95% confidence interval (CI), 1.7-2.08) and compared with women with exposure either before or after pregnancy (RR 1.38; 95% CI, 1.23-1.54; P < 0.001). Exposure to methylphenidate (MPH) was marginally associated with an increased risk for cardiac malformation (RR 1.27; 95% CI, 0.99-1.63; P = 0.065) compared with no exposure. However, exposure to ADHD medication was not associated with an increased risk for other adverse maternal or neonatal outcomes. This analysis was limited by the small number of studies included and the limited adjustments for the possible confounders in the studies.\n\nConclusions: Exposure to ADHD medication during pregnancy does not appear to be associated with adverse maternal or neonatal outcomes. Given the few studies included, further larger, prospective studies that control for important confounders are needed to verify our findings.\n\nKEYWORDS\nattention, hyperactivity, pharmacoepidemiology, prenatal\n\n1 | INTRODUCTION\n\nAlthough attention-deficit/hyperactivity disorder (ADHD) is classically a childhood disease, it persists into adulthood in 40% to 50% of cases.1 The prevalence rate of ADHD in adults is estimated to be 2.5%.2 In recent years, there has been a notable increase in the number of adults treated with ADHD medication. Of particular concern is the use of these drugs by pregnant women, which has increased by almost 100-fold in Denmark, during the past 12 years.3 However, little is known about the reproductive safety of these drugs.\n\nHai-yin Jiang and Xue Zhang contributed equally to this study.\n\n288 | © 2018 John Wiley & Sons, Ltd. wileyonlinelibrary.com/journal/pds Pharmacoepidemiol Drug Saf. 2019;28:288–295.\nADHD medications, such as methylphenidate (MPH), can theoretically pass through the placental barrier and reach the foetal circulation.4,5 Preclinical studies have reported that in utero exposure to these agents is associated with adverse pregnancy and neonatal outcomes.6 Besides MPH, the commonly used medication atomoxetine has had similar adverse gestational effects.7 An increasing number of studies8-13 have investigated the effect of ADHD medication on foetal malformations and pregnancy outcomes, but the results of these studies have been inconsistent. The most recent systematic review14 on the topic identified six studies but did not provide an overall estimate of the effect of ADHD medication on maternal or neonatal outcomes. Since that systematic review was published, several additional studies15,16 have been published, allowing a more detailed analysis.\n\nGiven the increased use of ADHD medication during pregnancy, we specifically examined cohort studies of women taking ADHD medication during pregnancy, compared them with unexposed women, and reported rates of congenital malformations, preterm birth, and maternal outcomes. The aim of this study was to better understand the association between in utero exposure to ADHD medication and the risk of a broad set of maternal and neonatal outcomes to contribute to the development of evidence-based practice guidelines to inform future research.\n\n2 | METHODS\n\n2.1 | Search strategy\n\nWe followed the guidelines developed by the Meta-analysis of Observational Studies in Epidemiology Group to maintain a high quality level17 (Appendix S1). The PubMed and Embase databases were searched until May 2018 for peer-reviewed studies published in English. Terms related to ADHD medication and pregnancy were used; the full search strategy is available in Table S1. The reference lists of the retrieved articles were hand-searched for additional potentially eligible studies.\n\n2.2 | Study selection\n\nTwo reviewers (H.B.F. and H.Y.J.) independently selected and identified the studies for this analysis. We included observational studies that met all of the following inclusion criteria: (a) use of a cohort study design; (b) inclusion of a group of women who did not receive ADHD medication during pregnancy as reference group for comparison; (c) report of either a risk ratio (RR) or hazard ratio (HR); and (d) raw data were used to extract risk estimates if adjusted data were not provided in the studies. Case-control studies, case reports, case series, review articles, and commentaries were excluded. Studies including pregnant women who abused drugs were also excluded.\n\n2.3 | Data extraction and quality assessment\n\nThe data were extracted independently by H.B.F., X.Z., and C.M.J. using specifically designed Excel spreadsheets. Any discrepancies in the abstracted data were resolved through consensus. The following information was collected from each study: author, study time period/year of publication, data source, ascertainment of ADHD medication exposure, total number of other psychotropic drugs used in each group, and study quality. When specific data were unavailable, attempts were made to contact the corresponding author for more information. As recommended by the Cochrane Collaboration, we assessed the methodological quality of the studies based on the Newcastle-Ottawa Scale (NOS),18 which was developed for assessing the quality of nonrandomised studies in meta-analyses. Studies with scores greater than seven were considered to be of high quality.\n\n2.4 | Outcome assessment\n\n2.4.1 | Group comparisons and outcomes definition\n\nPregnant women were divided into three groups: the ADHD medication-exposed during pregnancy group, the ADHD medication-exposed before or after pregnancy but not during pregnancy group, or the ADHD medication-unexposed group.\n\nThe maternal and neonatal outcomes were analysed in the following four categories: (a) pregnancy complications (pre-eclampsia, diabetes, post-partum haemorrhage, and placental abruption); (b) labour and delivery outcomes (spontaneous abortion, preterm birth, small for gestational age (SGA), low birth weight, low Apgar scores, and stillbirth); (c) neonatal intensive care unit (NICU) admission; (d) congenital malformations (major malformation and cardiovascular malformation in the infants).\n\n2.4.2 | Primary analysis\n\nOur primary analysis calculated the pooled odds ratios of the maternal and neonatal outcomes of exposure to ADHD medication during pregnancy and compared these data with the comparable data from pregnant women with no exposure.\n\nKEY POINTS\n\n• It remains controversial whether ADHD medication use during pregnancy is associated with an increased risk of adverse maternal and neonatal outcomes.\n\n• This meta-analysis demonstrated that ADHD medication use during pregnancy was associated with an increased risk of neonatal intensive care unit admission (NICU).\n\n• Exposure to methylphenidate (MPH) was marginally associated with an increased risk for cardiac malformation.\n\n• No evidence of an increased risk for other adverse maternal or neonatal outcomes was found in our analysis.\n290 WILEY JIANG ET AL.\n\n2.4.3 | Secondary analysis\n\nA secondary analysis was performed to rule out the impact of confounding by indication. We compared outcomes between pregnancies exposed to ADHD medication and those for which the women used ADHD medication before or after, but not during, pregnancy.\n\n2.5 | Data analysis\n\nStatistical analyses were conducted using STATA 10.0 software (StataCorp LP, College Station, TX, USA). All risk estimates included in the pooled analyses were from the most fully adjusted multivariate model. Heterogeneity was quantified with Cochran Q and the I² statistic, with I² values less than 30%, 30% to 50%, and greater than 50% judged to represent little, moderate, and substantial heterogeneity, respectively.19 Random effects models were used to analyse pooled effects when statistical heterogeneity existed. Otherwise, fixed effects models were used.20 Publication bias was not assessed because fewer than 10 studies were included in our meta-analysis.21\n\n3 | RESULTS\n\n3.1 | Study selection\n\nFigure 1 depicts the flow of the search strategy and selection process, along with the reasons for exclusion. A total of 1146 potential eligible articles were identified after duplicates were excluded. Of these, 1086 articles were discarded after reading the titles and abstracts, and the remaining 59 articles were retrieved for detailed full-text evaluations. No randomised controlled trials were found, and one case-control study22 was excluded because of the low quality of the evidence. Finally, eight cohort studies were eligible for inclusion in this review. We included three studies8-10 that used the Danish National Patient Registry because they reported different maternal and neonatal outcomes, although there was some overlap in the study periods.\n\n3.2 | Characteristics of the included studies\n\nThe main characteristics of the studies are presented in Table 1. The earliest8 and most recent16 studies were published in 2014 and 2018, respectively. All included studies were cohort studies with data derived from birth registries and prescription registries. Of these, four studies9,11,13,15 reported the risk of neonatal malformations, and two9,13 of them limited the analysis to women with first trimester exposure. There was heterogeneity in the type of ADHD medication used in studies, including MPH, modafinil, atomoxetine, amphetamine, dexamphetamine, and lisdexamfetamine. Compared with the unexposed reference group, women in the other two groups tended to be more likely to have a prescription for a psychotropic drug other than an ADHD medication during pregnancy. However, four studies10,12,15,16 also adopted exposure before or after pregnancy groups as a reference group. All studies scored greater than seven on the NOS, which indicated high overall quality.\n\n3.3 | Synthesis of results\n\n3.3.1 | Primary analysis\n\nThe results of primary or secondary analyses are presented in Table 2. In our primary analysis, exposure to ADHD medication in utero was not associated with diabetes (RR 0.5; 95% CI, 0.2-1.5; P = 0.21), post-partum haemorrhage (RR 1.7; 95% CI, 0.4-6.9; P = 0.48), or placental abruption (RR 1.06; 95% CI, 0.86-1.39; P = 0.46). No differences between the ADHD medication-exposed group and the unexposed group were observed for preterm birth (RR 1.05; 95% CI, 0.97-1.14; P = 0.6), SGA (RR 0.91; 95% CI, 0.79-1.04; P = 0.34), or still birth (RR 1.14; 95% CI, 0.62-2.06; P = 0.68). In utero exposure to ADHD medication was associated with increased risks of NICU admission (RR 1.88; 95% CI, 1.7-2.08; P < 0.001) (Figure 2A), spontaneous abortion (RR 1.89; 95% CI, 1.52-2.35; P < 0.001), pre-eclampsia (RR 1.27; 95% CI, 1.11-1.46; P < 0.001), and low Apgar scores (RR 1.33; 95% CI, 1.1-1.17; P = 0.048) compared with the unexposed group.\n\nExposure to ADHD medication was not significantly associated with an increased risk of major malformations (RR 1.05; 95% CI, 0.96-1.16; P = 0.175) or with a cardiac malformation (RR 1.08; 95% CI, 0.92-1.27; P = 0.357). Two studies with three estimates compared the risk of major malformation associated with MPH exposure during pregnancy with that associated with lack of such exposure, but the\nJIANG ET AL.\n\nTABLE 1 Characteristics of the included studies\n\nAbbreviations: GA, gestational age; LMP, last menstrual period; NA, not available.\n\ndifference was also insignificant (RR 1.06; 95% CI, 0.91-1.25; P = 0.516) (Figure 3A). However, MPH exposure was marginally associated with an increased risk for cardiac malformation (RR 1.27; 95% CI, 0.99-1.63; P = 0.065) (Figure 3B).\n\n3.3.2 | Secondary analysis\n\nIn our secondary analyses, ADHD medication use during pregnancy was not associated with diabetes (RR 0.91; 95% CI, 0.33-2.5; P = 0.86), post-partum haemorrhage (RR 1.53; 95% CI, 0.36-6.49; P = 0.56), pre-eclampsia (RR 1.13; 95% CI, 0.88-1.45; P = 0.363), or placental abruption (RR 1.39; 95% CI, 0.89-2.17; P = 0.15) when compared with ADHD medication use before or after pregnancy. No differences were observed between the ADHD medication-exposed group and the exposure-before-or-after-pregnancy group regarding spontaneous abortion (RR 1.02; 95% CI, 0.58-1.81; P = 0.651), still birth (RR 1.24; 95% CI, 0.63-2.43; P = 0.213), SGA (RR 1.17; 95% CI, 0.93-1.46; P = 0.17), or low Apgar scores (RR 1.27; 95% CI, 0.93-1.74; P = 0.13). In utero exposure to ADHD medication was associated with an increased risk of NICU admission (RR 1.38; 95% CI, 1.23-1.54; P < 0.001) (Figure 2B) and preterm birth (RR 1.47; 95% CI, 1.24-1.73; P < 0.001) when compared with the group that was exposed before or after pregnancy.\n\n4 | DISCUSSION\n\n4.1 | Main findings\n\nOur meta-analysis of eight cohort studies suggested that exposure to ADHD medication during pregnancy was not associated with significantly increased risks for adverse neonatal or maternal outcomes even when the group with ADHD exposure before or after pregnancy was adopted as the reference group. However, exposure to ADHD medication during pregnancy was associated with a significantly increased risk of NICU admission. Furthermore, we found that MPH was\n292 WILEY JIANG ET AL.\n\nTABLE 2 Pooled prevalence and RR of maternal and neonatal outcomes in the ADHD medication-exposed group versus the reference groupsᵃ\n\nAbbreviations: ADHD, attention-deficit/hyperactivity disorder; MPH, methylphenidate; NA, not available; NICU, neonatal intensive care unit admission; SGA, small for gestational age.\nᵃThe significant associations are shown in bold font.\nᵇMaternal MPH exposure.\nᶜOnly one estimate provided.\nJIANG ET AL.\n\nFIGURE 2    Attention-deficit/hyperactivity disorder (ADHD) medication exposure during pregnancy and risk of neonatal intensive care unit (NICU) (A) compared with noexposure group and (B) compared with exposure before or after pregnancy group [Colour figure can be viewed at wileyonlinelibrary.com]\n\nFIGURE 3    Methylphenidate (MPH) exposure during pregnancy and risk of (A) major malformations and (B) cadiovascular malformations [Colour figure can be viewed at wileyonlinelibrary.com]\n\nmarginally associated with an increased risk for cardiac malformation, although only 130 cases of cardiac malformation were seen in this population across all sites. As only a few studies were included our review, these results cannot be considered conclusive.\n\n4.2  |  Strengths and limitations\n\nThe strengths of this meta-analysis are its incorporation of high-quality cohort studies, its analysis of multiple pregnancy outcomes, and its performance of additional analyses to control for confounding by indication.\n\nNonetheless, our review had some major limitations. The most important limitation is the few studies included, which means that the possibility of type I errors and chance findings cannot be excluded. Second, the studies were very heterogeneous regarding data sources, definitions of each outcome, type of control group, and type of medications examined. Third, our meta-analysis lacked power to study very rare events due to the limited sample size. For example, only 130 cases of cardiovascular malformation among neonates exposed\nto MPH in the first trimester were observed, which restricted statistical power. Finally, all studies were observational cohort studies with the potential for residual confounding, especially due to the severity of an underlying maternal illness. Although a secondary analysis was performed to rule out the impact of confounding by indication, these estimates were calculated using raw data that could not be adjusted for other confounders.\n\n4.3 | Interpretation\n\nIn our primary analysis, ADHD medication use was associated with several pregnancy complications and adverse delivery outcomes, including pre-eclampsia, spontaneous abortion, induced abortion, and low Apgar scores. However, ADHD symptoms might result in poor adherence to antenatal care, an unhealthier lifestyle, and increased maternal stress that, in turn, could affect the foetus negatively, regardless of whether women were treated with ADHD medication.23 Furthermore, the number of antidepressants or antipsychotics used by the group exposed to ADHD medication was higher than that used by the unexposed group. However, previous studies reported that antidepressant or antipsychotic use during pregnancy was associated with adverse obstetric and neonatal outcomes.24-26 This potential association could explain why our primary analysis, with less rigourous control than our secondary analysis for confounding associated with maternal ADHD and other psychotropic drug use, observed an increased risk for these outcomes associated with ADHD medication, whereas our secondary analysis did not.\n\nAcross our analysis, an increased risk for NICU admission was seen in infants exposed to ADHD medication, and this result could be explained by several different mechanisms. First, ADHD medication may theoretically cross the placenta and thereby affect several key neurotransmitters in the developing infant's brain.27 ADHD medication withdrawal after birth could lead directly to neonatal morbidity, requiring admission to the NICU. Consistent with our hypothesis, one included study found an increased frequency of central nervous system disorders among infants exposed to ADHD medication in utero. Second, neonatal morbidity could be explained by poverty, coexisting mental disorders, use of other psychotropic drugs and alcohol, or illicit drug use23,28 or it may have been due to increased vigilance towards infants exposed to ADHD medication, with subsequent increased detection of neonatal morbidity. Considering our small sample size, further prospective studies are needed to verify our results.\n\nThis meta-analysis on major malformations is consistent with a previous systematic review, which reported that ADHD medication was not associated with an increase in major malformations. However, our subgroup analysis suggested that there might be a small increase in the risk of cardiovascular malformations associated with intrauterine exposure to MPH. Although very high doses of MPH have also been associated with certain malformations,29 most animal studies using relevant doses have not indicated a teratogenic effect.30,31 It should be noted that cardiovascular malformations might be associated with coexisting mental disorders and other associated factors rather than with exposure to MPH.32 We compared MPH-exposed pregnant women with unexposed pregnant women. Therefore, confounding by indication and concomitant medication remains unexplored in the available literature.\n\n5 | CONCLUSION\n\nIn summary, considering the limitations mentioned above, the findings of our meta-analysis suggest that exposure to ADHD medication in utero does not appear to be associated with unfavourable pregnancy outcomes, including an increased risk for major foetal malformations. However, the available information in the literature is limited; thus, larger studies considering maternal drug use and the severity of coexisting psychiatric illnesses during pregnancy are needed to clarify the influence of ADHD medication use on maternal and neonatal outcomes.\n\nETHICS STATEMENT\n\nNo ethical approval was required for this review as all data were already published in peer-reviewed journals. No patients were involved in the design, conduct or interpretation of our review.\n\nACKNOWLEDGEMENTS\n\nH.Y.J. and H.B.F. conceived the study and revised the manuscript critically for important intellectual content. H.Y.J., X.Z., and C.M.J. made substantial contributions to its design, acquisition, analysis, and interpretation of data. All authors read and approved the final manuscript. This study was supported by the National Natural Science Foundation of China (Grant No. 81601186) and the National Key Stone Basic Research Program (973 Program) of China (2013CB531401). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.\n\nCONFLICT OF INTEREST\n\nThe authors declare no conflict of interest.\n\nORCID\n\nHai-bin Fu https://orcid.org/0000-0002-3109-2871\n\nREFERENCES\n\n1. Thapar A, Cooper M. Attention deficit hyperactivity disorder. Lancet (London, England). 2016;387(10024):1240-1250.\n\n2. Simon V, Czobor P, Balint S, Meszaros A, Bitter I. Prevalence and correlates of adult attention-deficit hyperactivity disorder: meta-analysis. Br J Psychiatry J Ment Sci. 2009;194(3):204-211.\n\n3. Pottegard A, Bjerregaard BK, Glintborg D, Kortegaard LS, Hallas J, Moreno SI. The use of medication against attention deficit/hyperactivity disorder in Denmark: a drug use study from a patient perspective. Eur J Clin Pharmacol. 2013;69(3):589-598.\n\n4. Teo SK, Stirling DI, Thomas SD, Hoberman AM, Christian MS, Khetani VD. The perinatal and postnatal toxicity of D-methylphenidate and D, L-methylphenidate in rats. Reprod Toxicol. 2002;16(4):353-366.\n\n5. Teo SK, Stirling DI, Hoberman AM, Christian MS, Thomas SD, Khetani VD. D-methylphenidate and D,L-methylphenidate are not developmental toxicants in rats and rabbits. Birth Defects Res B Dev Reprod Toxicol. 2003;68(2):162-171.\nJIANG ET AL.\n\n6. Beckman DA, Schneider M, Youreneff M, Tse FL. Developmental toxicity assessment of d, l-Methylphenidate and d-Methylphenidate in rats and rabbits. Birth Defects Res B Dev Reprod Toxicol. 2008;83(5):489–501.\n\n7. Humphreys C, Garcia-Bournissen F, Ito S, Koren G. Exposure to attention deficit hyperactivity disorder medications during pregnancy. Can Fam Physician Medecin de Famille Canadien. 2007;53(7):1153–1155.\n\n8. Haervig KB, Mortensen LH, Hansen AV, Strandberg-Larsen K. Use of ADHD medication during pregnancy from 1999 to 2010: a Danish register-based study. Pharmacoepidemiol Drug Saf. 2014;23(5):526–533.\n\n9. Pottegard A, Hallas J, Andersen JT, et al. First-trimester exposure to methylphenidate: a population-based cohort study. J Clin Psychiatry. 2014;75(2):e88–e93.\n\n10. Bro SP, Kjaersgaard MI, Parner ET, et al. Adverse pregnancy outcomes after exposure to methylphenidate or atomoxetine during pregnancy. Clin Epidemiol. 2015;7:139–147.\n\n11. Diav-Citrin O, Shechtman S, Arnon J, et al. Methylphenidate in pregnancy: a multicenter, prospective, comparative, observational study. J Clin Psychiatry. 2016;77(9):1176–1181.\n\n12. Cohen JM, Hernandez-Diaz S, Bateman BT, et al. Placental complications associated with psychostimulant use in pregnancy. Obstet Gynecol. 2017;130(6):1192–1201.\n\n13. Huybrechts KF, Broms G, Christensen LB, et al. Association between methylphenidate and amphetamine use in pregnancy and risk of congenital malformations: a cohort study from the international pregnancy safety study consortium. JAMA Psychiat. 2018;75(2):167–175.\n\n14. Andrade C. Risk of major congenital malformations associated with the use of methylphenidate or amphetamines in pregnancy. J Clin Psychiatry. 2018;79(1).\n\n15. Norby U, Winbladh B, Kallen K. Perinatal outcomes after treatment with ADHD medication during pregnancy. Pediatrics. 2017;140(6):e20170747.\n\n16. Poulton AS, Armstrong B, Nanan RK. Perinatal outcomes of women diagnosed with attention-deficit/hyperactivity disorder: an Australian population-based cohort study. CNS Drugs. 2018;32(4):377–386.\n\n17. Stroup DF, Berlin JA, Morton SC, et al. Meta-analysis of observational studies in epidemiology: a proposal for reporting. Meta-analysis of observational studies in epidemiology (MOOSE) group. JAMA. 2000;283(15):2008–2012.\n\n18. Higgins. Cochrane handbook for systematic reviews of interventions version 5.1.0. The Cochrane collaboration. Available at: www.cochrane-handbook.org [6 December 2014]. 2014.\n\n19. Higgins JP, Thompson SG. Quantifying heterogeneity in a meta-analysis. Stat Med. 2002;21(11):1539–1558.\n\n20. Greenland S. Quantitative methods in the review of epidemiologic literature. Epidemiol Rev. 1987;9(1):1–30.\n\n21. Lau J, Ioannidis JP, Terrin N, Schmid CH, Olkin I. The case of the misleading funnel plot. BMJ. 2006;333(7568):597–600.\n\n22. Anderson KN, Dutton AC, Broussard CS, et al. ADHD medication use during pregnancy and risk for selected birth defects: National birth defects prevention study, 1998-2011. J Atten Disord. 2018;1087054718759753.\n\n23. Eddy LD, Jones HA, Snipes D, Karjane N, Svikis D. Associations between ADHD symptoms and occupational, interpersonal, and daily life impairments among pregnant women. J Atten Disord. 2017;1087054716685839.\n\n24. Coughlin CG, Blackwell KA, Bartley C, Hay M, Yonkers KA, Bloch MH. Obstetric and neonatal outcomes after antipsychotic medication exposure in pregnancy. Obstet Gynecol. 2015;125(5):1224–1235.\n\n25. Gao SY, Wu QJ, Zhang TN, et al. Fluoxetine and congenital malformations: a systematic review and meta-analysis of cohort studies. Br J Clin Pharmacol. 2017;83(10):2134–2147.\n\n26. Eke AC, Saccone G, Berghella V. Selective serotonin reuptake inhibitor (SSRI) use during pregnancy and risk of preterm birth: a systematic review and meta-analysis. BJOG. 2016;123(12):1900–1907.\n\n27. Lepelletier FX, Tauber C, Nicolas C, et al. Prenatal exposure to methylphenidate affects the dopamine system and the reactivity to natural reward in adulthood in rats. Int J Neuropsychopharmacol. 2014;18(4).\n\n28. Sweeney CT, Sembower MA, Ertischek MD, Shiffman S, Schnoll SH. Nonmedical use of prescription ADHD stimulants and preexisting patterns of drug abuse. J Addict Dis. 2013;32(1):1–10.\n\n29. Andreazza AC, Frey BN, Valvassori SS, et al. DNA damage in rats after treatment with methylphenidate. Prog Neuropsychopharmacol Biol Psychiatry. 2007;31(6):1282–1288.\n\n30. Witt KL, Malarkey DE, Hobbs CA, et al. No increases in biomarkers of genetic damage or pathological changes in heart and brain tissues in male rats administered methylphenidate hydrochloride (Ritalin) for 28 days. Environ Mol Mutagen. 2010;51(1):80–88.\n\n31. Costa Gde A, Galvao TC, Bacchi AD, Moreira EG, Salles MJ. Investigation of possible teratogenic effects in the offspring of mice exposed to methylphenidate during pregnancy. Reprod Biomed Online. 2016;32(2):170–177.\n\n32. Spencer TJ, Faraone SV, Tarko L, McDermott K, Biederman J. Attention-deficit/hyperactivity disorder and adverse health outcomes in adults. J Nerv Ment Dis. 2014;202(10):725–731.\n\nSUPPORTING INFORMATION\n\nAdditional supporting information may be found online in the Supporting Information section at the end of the article.\n\nHow to cite this article: Jiang H, Zhang X, Jiang C, Fu H. Maternal and neonatal outcomes after exposure to ADHD medication during pregnancy: A systematic review and meta-analysis. Pharmacoepidemiol Drug Saf. 2019;28:288–295. https://doi.org/10.1002/pds.4716"
+  ],
+  "tables": [
+    {
+      "table_num": 1,
+      "page": 4,
+      "caption": "Characteristics of the included studies",
+      "headers": [
+        "Study",
+        "Location, Setting",
+        "Study Period/Design",
+        "Exposure Measurement",
+        "Exposure Windows",
+        "Exposure During Pregnancy Group",
+        "Exposure Before or After Pregnancy Group",
+        "Noexposure Group",
+        "Overall Quality"
+      ],
+      "rows": [
+        [
+          "Haervig et al8",
+          "Denmark, population-based",
+          "1999-2010/ Cohort",
+          "National Prescription Registry",
+          "28 d before the first day of the LMP",
+          "Antidepressant: 104 (21.7%)",
+          "NA",
+          "Antidepressant: 21 129 (2%)",
+          "9"
+        ],
+        [
+          "Pottegard et al9",
+          "Denmark, population-based",
+          "1995-2012/ Cohort",
+          "Prescription Registry",
+          "14 d before the beginning of the first trimester up to the end of the first trimester",
+          "Antidepressant: 76 (34.2%) Antipsychotic: 20 (9%)",
+          "NA",
+          "Antidepressant: 768 (34.6%) Antipsychotic: 139 (6.3%)",
+          "9"
+        ],
+        [
+          "Bro et al10",
+          "Denmark, population-based",
+          "1997-2008/ Cohort",
+          "National Prescription Registry",
+          "Estimated date of conception based on GA to the date of the outcome",
+          "Antidepressant: 57 (30.6%) Antipsychotic: 17 (9.1%)",
+          "Antidepressant: 35 (12.7%) Antipsychotic: 25 (9.1%)",
+          "Antidepressant: 21 700 (34.2%) Antipsychotic: 3096 (2.2%)",
+          "9"
+        ],
+        [
+          "Diav-Citrin et al11",
+          "Israel, Germany, England, Canada, population-based",
+          "1996-2013/ Cohort",
+          "Teratology Information Service",
+          "Conception till the end of pregnancy",
+          "NA",
+          "NA",
+          "NA",
+          "8"
+        ],
+        [
+          "Cohen et al12",
+          "USA, population-based",
+          "2000-2010/ Cohort",
+          "Medicaid Analytic eXtract database",
+          "3 mo before the first day of their LMP",
+          "Antidepressant: 2639 (49.8%) Antipsychotic: 1063 (20.1%)",
+          "Antidepressant: 1959 (49.7%) Antipsychotic: 686 (17.4%)",
+          "Antidepressant: 138 074 (9.5%) Antipsychotic: 18 080 (1.2%)",
+          "9"
+        ],
+        [
+          "Norby et al15",
+          "Sweden, population-based",
+          "2006-2014/ Cohort",
+          "Medical Birth Register, Prescribed Drug Register",
+          "1 mo before the first day of their LMP",
+          "Antidepressant: 505 (31.8%) Antipsychotic: 555 (34.9%)",
+          "Antidepressant: 1895 (20%) Antipsychotic: 1430 (15.1%)",
+          "Antidepressant: 31 471 (3.3%) Antipsychotic: 21 934 (2.3%)",
+          "9"
+        ],
+        [
+          "Huybrechts et al13",
+          "Northern Europe, USA, population-based",
+          "2000-2013/ Cohort",
+          "Medicaid Analytic eXtract database",
+          "First 90 d of pregnancy",
+          "Antidepressant: 1033 (49.9%) Antipsychotic: 375 (18.1%)",
+          "NA",
+          "Antidepressant: 155 155 (8.6%) Antipsychotic: 22 661 (1.3%)",
+          "9"
+        ],
+        [
+          "Poulton et al16",
+          "Australia, population-based",
+          "1994-2012/ Cohort",
+          "Pharmaceutical Drugs of Addiction System",
+          "Treatment records within 12 mo of the expected delivery date",
+          "NA",
+          "NA",
+          "NA",
+          "9"
+        ]
+      ],
+      "metadata": {
+        "original_row_count": 8,
+        "data_row_count": 8,
+        "footnotes": [],
+        "footnote_count": 0,
+        "headers": [
+          "Study",
+          "Location, Setting",
+          "Study Period/Design",
+          "Exposure Measurement",
+          "Exposure Windows",
+          "Exposure During Pregnancy Group",
+          "Exposure Before or After Pregnancy Group",
+          "Noexposure Group",
+          "Overall Quality"
+        ]
+      }
+    },
+    {
+      "table_num": 2,
+      "page": 5,
+      "caption": "Pooled prevalence and RR of maternal and neonatal outcomes in the ADHD medication-exposed group versus the reference groupsᵃ",
+      "headers": [
+        "",
+        "Noexposure Group N",
+        "Noexposure Group Number With Outcome (n, %)",
+        "Exposure During Pregnancy Group N",
+        "Exposure During Pregnancy Group Number With Outcome (n, %)",
+        "Exposure Before or After Pregnancy Group N",
+        "Exposure Before or After Pregnancy Group Number With Outcome (n, %)",
+        "Exposure During Pregnancy Versus Noexposure Group Pooled RR (95% CI), I² Statistics, %",
+        "Exposure During Pregnancy Versus Exposure Before or After Pregnancy Group Pooled RR (95% CI), I² Statistics, %"
+      ],
+      "rows": [
+        [
+          "Pregnancy complications",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Pre-eclamsia",
+          "1 486 742",
+          "55 976 (3.8%)",
+          "5474",
+          "291 (5.3%)",
+          "8408",
+          "492 (5.9%)",
+          "1.27 (1.11-1.46); I² = 0%",
+          "1.13 (0.88-1.45); I² = 0%"
+        ],
+        [
+          "Diabetes",
+          "25 249",
+          "817 (3.2%)",
+          "175",
+          "4 (2.3%)",
+          "4881",
+          "122 (2.5%)",
+          "0.5 (0.2-1.5)ᶜ",
+          "0.91 (0.33-2.5)ᶜ"
+        ],
+        [
+          "Post-partum haemorrhage",
+          "10 749",
+          "169 (1.6%)",
+          "78",
+          "2 (2.6%)",
+          "2073",
+          "35 (1.7%)",
+          "1.7 (0.4-6.9)ᶜ",
+          "1.53 (0.36-6.49)ᶜ"
+        ],
+        [
+          "Placental abruption",
+          "1 461 493",
+          "20 676 (1.4%)",
+          "5299",
+          "89 (1.7%)",
+          "3527",
+          "58 (1.6%)",
+          "1.06 (0.86-1.39); I² = 0%",
+          "1.39 (0.89-2.17)ᶜ"
+        ],
+        [
+          "Labour and delivery outcomes",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Spontaneous abortion",
+          "2 044 347",
+          "229 125 (11%)",
+          "1255",
+          "103 (8.2%)",
+          "275",
+          "26 (9.5%)",
+          "1.89 (1.52-2.35); I² = 0%",
+          "1.02 (0.58-1.81)ᶜ"
+        ],
+        [
+          "Preterm birth",
+          "3 938 045",
+          "363 610 (9.2%)",
+          "5953",
+          "739 (12.4%)",
+          "8682",
+          "826 (9.5%)",
+          "1.05 (0.97-1.14); I² = 30.3%",
+          "1.47 (1.24-1.73); I² = 45%"
+        ],
+        [
+          "SGA",
+          "3 404 632",
+          "107 946 (3.2%)",
+          "7076",
+          "245 (3.5%)",
+          "13 277",
+          "358 (2.7%)",
+          "0.91 (0.79-1.04); I² = 40.6%",
+          "1.17 (0.93-1.46); I² = 69%"
+        ],
+        [
+          "Low birth weight",
+          "1 014 706",
+          "25 367 (2.5%)",
+          "361",
+          "21 (8%)",
+          "275",
+          "26 (9.5%)",
+          "0.68 (0.13-3.65); I² = 80.6%",
+          "0.68 (0.08-5.72); I² = 77%"
+        ],
+        [
+          "Low Apgar scores",
+          "1 968 318",
+          "63 416 (3.2%)",
+          "1951",
+          "51 (2.6%)",
+          "14 517",
+          "318 (2.2%)",
+          "1.33 (1-1.17); I² = 18.4%",
+          "1.27 (0.93-1.74); I² = 0%"
+        ],
+        [
+          "Stillbirth",
+          "2 033 777",
+          "8217 (0.4%)",
+          "2855",
+          "97 (3.4%)",
+          "14 345",
+          "85 (0.6%)",
+          "1.14 (0.62-2.06); I² = 0%",
+          "1.24 (0.63-2.43); I² = 0%"
+        ],
+        [
+          "NICU admission",
+          "978 907",
+          "83 835 (8.5%)",
+          "1766",
+          "306 (17.3%)",
+          "14 354",
+          "2124 (14.8%)",
+          "1.88 (1.7-2.08); I² = 0%",
+          "1.38 (1.23-1.54); I² = 0%"
+        ],
+        [
+          "Congenital malformations",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Major malformation",
+          "2 754 184",
+          "83 801 (3%)",
+          "9765",
+          "413 (4.2%)",
+          "NA",
+          "NA",
+          "1.05 (0.96-1.16); I² = 0%",
+          "—"
+        ],
+        [
+          "Cardiovascular malformation",
+          "1 800 516",
+          "22 945 (1.3%)",
+          "8112",
+          "130 (1.6%)",
+          "NA",
+          "NA",
+          "1.08 (0.92-1.27); I² = 0%",
+          "—"
+        ],
+        [
+          "Congenital malformationsᵇ",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Major malformation",
+          "1 800 516",
+          "63 065 (3.5%)",
+          "2063",
+          "112 (5.4%)",
+          "NA",
+          "NA",
+          "1.06 (0.91-1.25); I² = 0%",
+          "—"
+        ],
+        [
+          "Cadiovascular malformation",
+          "1 800 516",
+          "22 945 (1.3%)",
+          "2541",
+          "44 (1.7%)",
+          "NA",
+          "NA",
+          "1.27 (0.99-1.63); I² = 0%",
+          "—"
+        ]
+      ],
+      "metadata": {
+        "original_row_count": 19,
+        "data_row_count": 19,
+        "footnotes": [],
+        "footnote_count": 0,
+        "headers": [
+          "",
+          "Noexposure Group N",
+          "Noexposure Group Number With Outcome (n, %)",
+          "Exposure During Pregnancy Group N",
+          "Exposure During Pregnancy Group Number With Outcome (n, %)",
+          "Exposure Before or After Pregnancy Group N",
+          "Exposure Before or After Pregnancy Group Number With Outcome (n, %)",
+          "Exposure During Pregnancy Versus Noexposure Group Pooled RR (95% CI), I² Statistics, %",
+          "Exposure During Pregnancy Versus Exposure Before or After Pregnancy Group Pooled RR (95% CI), I² Statistics, %"
+        ]
+      }
+    }
+  ],
+  "figures": [
+    {
+      "figure_num": 1,
+      "page": 3,
+      "caption": "Flow chart of the studies considered and finally selected for review",
+      "description": "A PRISMA-style flow diagram showing the study selection process. Two initial boxes at the top: Studies identified from PubMed (n=896) and Studies identified from Embase (n=412). These feed into: Records after duplicates removed (n=1146). Then: Records excluded by screening titles or abstracts (n=1086). Leading to: Full-text articles reviewed (n=60). Then articles excluded based on (n=52): Illicit drug use among pregnancy mothers (n=24), Outcome was not provided (n=8), Case-control study (n=1), Review, conference abstract, letter, case-report (n=10), Not relevant (n=9). Final box: Eight cohort studies were included in the meta-analysis.",
+      "structured_data": "{\"Studies identified from PubMed\": 896, \"Studies identified from Embase\": 412, \"Records after duplicates removed\": 1146, \"Records excluded by screening titles or abstracts\": 1086, \"Full-text articles reviewed\": 60, \"Articles excluded total\": 52, \"Excluded - Illicit drug use among pregnancy mothers\": 24, \"Excluded - Outcome was not provided\": 8, \"Excluded - Case-control study\": 1, \"Excluded - Review, conference abstract, letter, case-report\": 10, \"Excluded - Not relevant\": 9, \"Eight cohort studies included in meta-analysis\": 8}"
+    },
+    {
+      "figure_num": 2,
+      "page": 6,
+      "caption": "Attention-deficit/hyperactivity disorder (ADHD) medication exposure during pregnancy and risk of neonatal intensive care unit (NICU) (A) compared with noexposure group and (B) compared with exposure before or after pregnancy group [Colour figure can be viewed at wileyonlinelibrary.com]",
+      "description": "Forest plot showing two subgroups (A) and (B). (A) compares ADHD medication exposure during pregnancy vs no exposure for NICU risk. (B) compares exposure during pregnancy vs exposure before or after pregnancy for NICU risk. Each subgroup includes two studies: Norby et al (2017) and Poulton et al (2018), with a pooled subtotal diamond. X-axis ranges from 0.458 to 2.18.",
+      "structured_data": "[{\"subgroup\": \"A\", \"study_label\": \"Norby et al (2017)\", \"n_treatment\": 259, \"n_control\": 953668, \"effect_size\": 1.95, \"ci_lower\": 1.75, \"ci_upper\": 2.18, \"weight_percent\": 81.71}, {\"subgroup\": \"A\", \"study_label\": \"Poulton et al (2018)\", \"n_treatment\": 47, \"n_control\": 25239, \"effect_size\": 1.57, \"ci_lower\": 1.23, \"ci_upper\": 2.01, \"weight_percent\": 18.29}, {\"subgroup\": \"A\", \"study_label\": \"Subtotal (I-squared = 58.9%, p = 0.119)\", \"n_treatment\": 306, \"n_control\": 978907, \"effect_size\": 1.88, \"ci_lower\": 1.70, \"ci_upper\": 2.08, \"weight_percent\": 100.00}, {\"subgroup\": \"B\", \"study_label\": \"Norby et al (2017)\", \"n_treatment\": 259, \"n_control\": 9475, \"effect_size\": 1.40, \"ci_lower\": 1.23, \"ci_upper\": 1.58, \"weight_percent\": 81.83}, {\"subgroup\": \"B\", \"study_label\": \"Poulton et al (2018)\", \"n_treatment\": 47, \"n_control\": 4879, \"effect_size\": 1.29, \"ci_lower\": 1.00, \"ci_upper\": 1.65, \"weight_percent\": 18.17}, {\"subgroup\": \"B\", \"study_label\": \"Subtotal (I-squared = 0.0%, p = 0.565)\", \"n_treatment\": 306, \"n_control\": 14354, \"effect_size\": 1.38, \"ci_lower\": 1.23, \"ci_upper\": 1.54, \"weight_percent\": 100.00}]"
+    },
+    {
+      "figure_num": 3,
+      "page": 6,
+      "caption": "Methylphenidate (MPH) exposure during pregnancy and risk of (A) major malformations and (B) cadiovascular malformations [Colour figure can be viewed at wileyonlinelibrary.com]",
+      "description": "Forest plot showing two subgroups (A) Major malformation and (B) Cardiovascular malformation. Each subgroup includes three studies: Diav-Citrin et al (MPH) (2016), Huybrechts et al (MPH) (2018), and Huybrechts et al (Nordic-MPH) (2018), with a pooled subtotal diamond. X-axis ranges from 0.16 to 6.25. Effect sizes are reported as ES (95% CI).",
+      "structured_data": "[{\"subgroup\": \"A - Major malformation\", \"study_label\": \"Diav-Citrin et al (MPH) (2016)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 0.89, \"ci_lower\": 0.40, \"ci_upper\": 2.00, \"weight_percent\": 3.94}, {\"subgroup\": \"A - Major malformation\", \"study_label\": \"Huybrechts et al (MPH) (2018)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 1.11, \"ci_lower\": 0.91, \"ci_upper\": 1.35, \"weight_percent\": 65.59}, {\"subgroup\": \"A - Major malformation\", \"study_label\": \"Huybrechts et al (Nordic-MPH) (2018)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 0.99, \"ci_lower\": 0.74, \"ci_upper\": 1.32, \"weight_percent\": 30.47}, {\"subgroup\": \"A - Major malformation\", \"study_label\": \"Subtotal (I-squared = 0.0%, p = 0.739)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 1.06, \"ci_lower\": 0.91, \"ci_upper\": 1.25, \"weight_percent\": 100.00}, {\"subgroup\": \"B - Cardiovascular malformation\", \"study_label\": \"Diav-Citrin et al (MPH) (2016)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 0.97, \"ci_lower\": 0.16, \"ci_upper\": 5.74, \"weight_percent\": 1.92}, {\"subgroup\": \"B - Cardiovascular malformation\", \"study_label\": \"Huybrechts et al (MPH) (2018)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 1.28, \"ci_lower\": 0.94, \"ci_upper\": 1.74, \"weight_percent\": 65.06}, {\"subgroup\": \"B - Cardiovascular malformation\", \"study_label\": \"Huybrechts et al (Nordic-MPH) (2018)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 1.28, \"ci_lower\": 0.83, \"ci_upper\": 1.97, \"weight_percent\": 33.02}, {\"subgroup\": \"B - Cardiovascular malformation\", \"study_label\": \"Subtotal (I-squared = 0.0%, p = 0.956)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 1.27, \"ci_lower\": 0.99, \"ci_upper\": 1.63, \"weight_percent\": 100.00}]"
+    }
+  ],
+  "total_iterations": 12,
+  "goal": "extract_all_data",
+  "status": "complete",
+  "session_file": "D:\\MadeAI\\MAS\\Harness_With_Without\\With_Harness\\pdf_extraction_harness_V2\\sessions\\jiang2019_session.jsonl",
+  "extraction_method": "Goal-Driven Agent-Based Extraction (with Phase 4 Validation)",
+  "pages_extracted": 8,
+  "pages_expected": 8,
+  "goal_achieved": true,
+  "coverage_percent": 100.0,
+  "phase_4_validation": {
+    "text_agent": {
+      "valid": true,
+      "issues": [
+        "possible_utf8_issues: 11 suspicious characters"
+      ],
+      "results": {
+        "original_length": 28337,
+        "cleaned_length": 28337,
+        "fixes_applied": [
+          "possible_utf8_issues: 11 suspicious characters"
+        ],
+        "text_quality": "HIGH"
+      }
+    },
+    "figure_agent": {
+      "valid": true,
+      "issues": [],
+      "results": {
+        "figures_validated": 3,
+        "issues_found": 0,
+        "validated_figures": [
+          {
+            "figure_num": 1,
+            "page": 3,
+            "caption": "Flow chart of the studies considered and finally selected for review",
+            "description": "A PRISMA-style flow diagram showing the study selection process. Two initial boxes at the top: Studies identified from PubMed (n=896) and Studies identified from Embase (n=412). These feed into: Records after duplicates removed (n=1146). Then: Records excluded by screening titles or abstracts (n=1086). Leading to: Full-text articles reviewed (n=60). Then articles excluded based on (n=52): Illicit drug use among pregnancy mothers (n=24), Outcome was not provided (n=8), Case-control study (n=1), Review, conference abstract, letter, case-report (n=10), Not relevant (n=9). Final box: Eight cohort studies were included in the meta-analysis.",
+            "structured_data": "{\"Studies identified from PubMed\": 896, \"Studies identified from Embase\": 412, \"Records after duplicates removed\": 1146, \"Records excluded by screening titles or abstracts\": 1086, \"Full-text articles reviewed\": 60, \"Articles excluded total\": 52, \"Excluded - Illicit drug use among pregnancy mothers\": 24, \"Excluded - Outcome was not provided\": 8, \"Excluded - Case-control study\": 1, \"Excluded - Review, conference abstract, letter, case-report\": 10, \"Excluded - Not relevant\": 9, \"Eight cohort studies included in meta-analysis\": 8}"
+          },
+          {
+            "figure_num": 2,
+            "page": 6,
+            "caption": "Attention-deficit/hyperactivity disorder (ADHD) medication exposure during pregnancy and risk of neonatal intensive care unit (NICU) (A) compared with noexposure group and (B) compared with exposure before or after pregnancy group [Colour figure can be viewed at wileyonlinelibrary.com]",
+            "description": "Forest plot showing two subgroups (A) and (B). (A) compares ADHD medication exposure during pregnancy vs no exposure for NICU risk. (B) compares exposure during pregnancy vs exposure before or after pregnancy for NICU risk. Each subgroup includes two studies: Norby et al (2017) and Poulton et al (2018), with a pooled subtotal diamond. X-axis ranges from 0.458 to 2.18.",
+            "structured_data": "[{\"subgroup\": \"A\", \"study_label\": \"Norby et al (2017)\", \"n_treatment\": 259, \"n_control\": 953668, \"effect_size\": 1.95, \"ci_lower\": 1.75, \"ci_upper\": 2.18, \"weight_percent\": 81.71}, {\"subgroup\": \"A\", \"study_label\": \"Poulton et al (2018)\", \"n_treatment\": 47, \"n_control\": 25239, \"effect_size\": 1.57, \"ci_lower\": 1.23, \"ci_upper\": 2.01, \"weight_percent\": 18.29}, {\"subgroup\": \"A\", \"study_label\": \"Subtotal (I-squared = 58.9%, p = 0.119)\", \"n_treatment\": 306, \"n_control\": 978907, \"effect_size\": 1.88, \"ci_lower\": 1.70, \"ci_upper\": 2.08, \"weight_percent\": 100.00}, {\"subgroup\": \"B\", \"study_label\": \"Norby et al (2017)\", \"n_treatment\": 259, \"n_control\": 9475, \"effect_size\": 1.40, \"ci_lower\": 1.23, \"ci_upper\": 1.58, \"weight_percent\": 81.83}, {\"subgroup\": \"B\", \"study_label\": \"Poulton et al (2018)\", \"n_treatment\": 47, \"n_control\": 4879, \"effect_size\": 1.29, \"ci_lower\": 1.00, \"ci_upper\": 1.65, \"weight_percent\": 18.17}, {\"subgroup\": \"B\", \"study_label\": \"Subtotal (I-squared = 0.0%, p = 0.565)\", \"n_treatment\": 306, \"n_control\": 14354, \"effect_size\": 1.38, \"ci_lower\": 1.23, \"ci_upper\": 1.54, \"weight_percent\": 100.00}]"
+          },
+          {
+            "figure_num": 3,
+            "page": 6,
+            "caption": "Methylphenidate (MPH) exposure during pregnancy and risk of (A) major malformations and (B) cadiovascular malformations [Colour figure can be viewed at wileyonlinelibrary.com]",
+            "description": "Forest plot showing two subgroups (A) Major malformation and (B) Cardiovascular malformation. Each subgroup includes three studies: Diav-Citrin et al (MPH) (2016), Huybrechts et al (MPH) (2018), and Huybrechts et al (Nordic-MPH) (2018), with a pooled subtotal diamond. X-axis ranges from 0.16 to 6.25. Effect sizes are reported as ES (95% CI).",
+            "structured_data": "[{\"subgroup\": \"A - Major malformation\", \"study_label\": \"Diav-Citrin et al (MPH) (2016)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 0.89, \"ci_lower\": 0.40, \"ci_upper\": 2.00, \"weight_percent\": 3.94}, {\"subgroup\": \"A - Major malformation\", \"study_label\": \"Huybrechts et al (MPH) (2018)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 1.11, \"ci_lower\": 0.91, \"ci_upper\": 1.35, \"weight_percent\": 65.59}, {\"subgroup\": \"A - Major malformation\", \"study_label\": \"Huybrechts et al (Nordic-MPH) (2018)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 0.99, \"ci_lower\": 0.74, \"ci_upper\": 1.32, \"weight_percent\": 30.47}, {\"subgroup\": \"A - Major malformation\", \"study_label\": \"Subtotal (I-squared = 0.0%, p = 0.739)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 1.06, \"ci_lower\": 0.91, \"ci_upper\": 1.25, \"weight_percent\": 100.00}, {\"subgroup\": \"B - Cardiovascular malformation\", \"study_label\": \"Diav-Citrin et al (MPH) (2016)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 0.97, \"ci_lower\": 0.16, \"ci_upper\": 5.74, \"weight_percent\": 1.92}, {\"subgroup\": \"B - Cardiovascular malformation\", \"study_label\": \"Huybrechts et al (MPH) (2018)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 1.28, \"ci_lower\": 0.94, \"ci_upper\": 1.74, \"weight_percent\": 65.06}, {\"subgroup\": \"B - Cardiovascular malformation\", \"study_label\": \"Huybrechts et al (Nordic-MPH) (2018)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 1.28, \"ci_lower\": 0.83, \"ci_upper\": 1.97, \"weight_percent\": 33.02}, {\"subgroup\": \"B - Cardiovascular malformation\", \"study_label\": \"Subtotal (I-squared = 0.0%, p = 0.956)\", \"n_treatment\": null, \"n_control\": null, \"effect_size\": 1.27, \"ci_lower\": 0.99, \"ci_upper\": 1.63, \"weight_percent\": 100.00}]"
+          }
+        ]
+      }
+    },
+    "metadata_agent": {
+      "valid": true,
+      "issues": [],
+      "results": {
+        "tables_structured": 2,
+        "total_footnotes_extracted": 0,
+        "structured_tables": [
+          {
+            "table_num": 1,
+            "page": 4,
+            "caption": "Characteristics of the included studies",
+            "headers": [
+              "Study",
+              "Location, Setting",
+              "Study Period/Design",
+              "Exposure Measurement",
+              "Exposure Windows",
+              "Exposure During Pregnancy Group",
+              "Exposure Before or After Pregnancy Group",
+              "Noexposure Group",
+              "Overall Quality"
+            ],
+            "rows": [
+              [
+                "Haervig et al8",
+                "Denmark, population-based",
+                "1999-2010/ Cohort",
+                "National Prescription Registry",
+                "28 d before the first day of the LMP",
+                "Antidepressant: 104 (21.7%)",
+                "NA",
+                "Antidepressant: 21 129 (2%)",
+                "9"
+              ],
+              [
+                "Pottegard et al9",
+                "Denmark, population-based",
+                "1995-2012/ Cohort",
+                "Prescription Registry",
+                "14 d before the beginning of the first trimester up to the end of the first trimester",
+                "Antidepressant: 76 (34.2%) Antipsychotic: 20 (9%)",
+                "NA",
+                "Antidepressant: 768 (34.6%) Antipsychotic: 139 (6.3%)",
+                "9"
+              ],
+              [
+                "Bro et al10",
+                "Denmark, population-based",
+                "1997-2008/ Cohort",
+                "National Prescription Registry",
+                "Estimated date of conception based on GA to the date of the outcome",
+                "Antidepressant: 57 (30.6%) Antipsychotic: 17 (9.1%)",
+                "Antidepressant: 35 (12.7%) Antipsychotic: 25 (9.1%)",
+                "Antidepressant: 21 700 (34.2%) Antipsychotic: 3096 (2.2%)",
+                "9"
+              ],
+              [
+                "Diav-Citrin et al11",
+                "Israel, Germany, England, Canada, population-based",
+                "1996-2013/ Cohort",
+                "Teratology Information Service",
+                "Conception till the end of pregnancy",
+                "NA",
+                "NA",
+                "NA",
+                "8"
+              ],
+              [
+                "Cohen et al12",
+                "USA, population-based",
+                "2000-2010/ Cohort",
+                "Medicaid Analytic eXtract database",
+                "3 mo before the first day of their LMP",
+                "Antidepressant: 2639 (49.8%) Antipsychotic: 1063 (20.1%)",
+                "Antidepressant: 1959 (49.7%) Antipsychotic: 686 (17.4%)",
+                "Antidepressant: 138 074 (9.5%) Antipsychotic: 18 080 (1.2%)",
+                "9"
+              ],
+              [
+                "Norby et al15",
+                "Sweden, population-based",
+                "2006-2014/ Cohort",
+                "Medical Birth Register, Prescribed Drug Register",
+                "1 mo before the first day of their LMP",
+                "Antidepressant: 505 (31.8%) Antipsychotic: 555 (34.9%)",
+                "Antidepressant: 1895 (20%) Antipsychotic: 1430 (15.1%)",
+                "Antidepressant: 31 471 (3.3%) Antipsychotic: 21 934 (2.3%)",
+                "9"
+              ],
+              [
+                "Huybrechts et al13",
+                "Northern Europe, USA, population-based",
+                "2000-2013/ Cohort",
+                "Medicaid Analytic eXtract database",
+                "First 90 d of pregnancy",
+                "Antidepressant: 1033 (49.9%) Antipsychotic: 375 (18.1%)",
+                "NA",
+                "Antidepressant: 155 155 (8.6%) Antipsychotic: 22 661 (1.3%)",
+                "9"
+              ],
+              [
+                "Poulton et al16",
+                "Australia, population-based",
+                "1994-2012/ Cohort",
+                "Pharmaceutical Drugs of Addiction System",
+                "Treatment records within 12 mo of the expected delivery date",
+                "NA",
+                "NA",
+                "NA",
+                "9"
+              ]
+            ],
+            "metadata": {
+              "original_row_count": 8,
+              "data_row_count": 8,
+              "footnotes": [],
+              "footnote_count": 0,
+              "headers": [
+                "Study",
+                "Location, Setting",
+                "Study Period/Design",
+                "Exposure Measurement",
+                "Exposure Windows",
+                "Exposure During Pregnancy Group",
+                "Exposure Before or After Pregnancy Group",
+                "Noexposure Group",
+                "Overall Quality"
+              ]
+            }
+          },
+          {
+            "table_num": 2,
+            "page": 5,
+            "caption": "Pooled prevalence and RR of maternal and neonatal outcomes in the ADHD medication-exposed group versus the reference groupsᵃ",
+            "headers": [
+              "",
+              "Noexposure Group N",
+              "Noexposure Group Number With Outcome (n, %)",
+              "Exposure During Pregnancy Group N",
+              "Exposure During Pregnancy Group Number With Outcome (n, %)",
+              "Exposure Before or After Pregnancy Group N",
+              "Exposure Before or After Pregnancy Group Number With Outcome (n, %)",
+              "Exposure During Pregnancy Versus Noexposure Group Pooled RR (95% CI), I² Statistics, %",
+              "Exposure During Pregnancy Versus Exposure Before or After Pregnancy Group Pooled RR (95% CI), I² Statistics, %"
+            ],
+            "rows": [
+              [
+                "Pregnancy complications",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Pre-eclamsia",
+                "1 486 742",
+                "55 976 (3.8%)",
+                "5474",
+                "291 (5.3%)",
+                "8408",
+                "492 (5.9%)",
+                "1.27 (1.11-1.46); I² = 0%",
+                "1.13 (0.88-1.45); I² = 0%"
+              ],
+              [
+                "Diabetes",
+                "25 249",
+                "817 (3.2%)",
+                "175",
+                "4 (2.3%)",
+                "4881",
+                "122 (2.5%)",
+                "0.5 (0.2-1.5)ᶜ",
+                "0.91 (0.33-2.5)ᶜ"
+              ],
+              [
+                "Post-partum haemorrhage",
+                "10 749",
+                "169 (1.6%)",
+                "78",
+                "2 (2.6%)",
+                "2073",
+                "35 (1.7%)",
+                "1.7 (0.4-6.9)ᶜ",
+                "1.53 (0.36-6.49)ᶜ"
+              ],
+              [
+                "Placental abruption",
+                "1 461 493",
+                "20 676 (1.4%)",
+                "5299",
+                "89 (1.7%)",
+                "3527",
+                "58 (1.6%)",
+                "1.06 (0.86-1.39); I² = 0%",
+                "1.39 (0.89-2.17)ᶜ"
+              ],
+              [
+                "Labour and delivery outcomes",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Spontaneous abortion",
+                "2 044 347",
+                "229 125 (11%)",
+                "1255",
+                "103 (8.2%)",
+                "275",
+                "26 (9.5%)",
+                "1.89 (1.52-2.35); I² = 0%",
+                "1.02 (0.58-1.81)ᶜ"
+              ],
+              [
+                "Preterm birth",
+                "3 938 045",
+                "363 610 (9.2%)",
+                "5953",
+                "739 (12.4%)",
+                "8682",
+                "826 (9.5%)",
+                "1.05 (0.97-1.14); I² = 30.3%",
+                "1.47 (1.24-1.73); I² = 45%"
+              ],
+              [
+                "SGA",
+                "3 404 632",
+                "107 946 (3.2%)",
+                "7076",
+                "245 (3.5%)",
+                "13 277",
+                "358 (2.7%)",
+                "0.91 (0.79-1.04); I² = 40.6%",
+                "1.17 (0.93-1.46); I² = 69%"
+              ],
+              [
+                "Low birth weight",
+                "1 014 706",
+                "25 367 (2.5%)",
+                "361",
+                "21 (8%)",
+                "275",
+                "26 (9.5%)",
+                "0.68 (0.13-3.65); I² = 80.6%",
+                "0.68 (0.08-5.72); I² = 77%"
+              ],
+              [
+                "Low Apgar scores",
+                "1 968 318",
+                "63 416 (3.2%)",
+                "1951",
+                "51 (2.6%)",
+                "14 517",
+                "318 (2.2%)",
+                "1.33 (1-1.17); I² = 18.4%",
+                "1.27 (0.93-1.74); I² = 0%"
+              ],
+              [
+                "Stillbirth",
+                "2 033 777",
+                "8217 (0.4%)",
+                "2855",
+                "97 (3.4%)",
+                "14 345",
+                "85 (0.6%)",
+                "1.14 (0.62-2.06); I² = 0%",
+                "1.24 (0.63-2.43); I² = 0%"
+              ],
+              [
+                "NICU admission",
+                "978 907",
+                "83 835 (8.5%)",
+                "1766",
+                "306 (17.3%)",
+                "14 354",
+                "2124 (14.8%)",
+                "1.88 (1.7-2.08); I² = 0%",
+                "1.38 (1.23-1.54); I² = 0%"
+              ],
+              [
+                "Congenital malformations",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Major malformation",
+                "2 754 184",
+                "83 801 (3%)",
+                "9765",
+                "413 (4.2%)",
+                "NA",
+                "NA",
+                "1.05 (0.96-1.16); I² = 0%",
+                "—"
+              ],
+              [
+                "Cardiovascular malformation",
+                "1 800 516",
+                "22 945 (1.3%)",
+                "8112",
+                "130 (1.6%)",
+                "NA",
+                "NA",
+                "1.08 (0.92-1.27); I² = 0%",
+                "—"
+              ],
+              [
+                "Congenital malformationsᵇ",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Major malformation",
+                "1 800 516",
+                "63 065 (3.5%)",
+                "2063",
+                "112 (5.4%)",
+                "NA",
+                "NA",
+                "1.06 (0.91-1.25); I² = 0%",
+                "—"
+              ],
+              [
+                "Cadiovascular malformation",
+                "1 800 516",
+                "22 945 (1.3%)",
+                "2541",
+                "44 (1.7%)",
+                "NA",
+                "NA",
+                "1.27 (0.99-1.63); I² = 0%",
+                "—"
+              ]
+            ],
+            "metadata": {
+              "original_row_count": 19,
+              "data_row_count": 19,
+              "footnotes": [],
+              "footnote_count": 0,
+              "headers": [
+                "",
+                "Noexposure Group N",
+                "Noexposure Group Number With Outcome (n, %)",
+                "Exposure During Pregnancy Group N",
+                "Exposure During Pregnancy Group Number With Outcome (n, %)",
+                "Exposure Before or After Pregnancy Group N",
+                "Exposure Before or After Pregnancy Group Number With Outcome (n, %)",
+                "Exposure During Pregnancy Versus Noexposure Group Pooled RR (95% CI), I² Statistics, %",
+                "Exposure During Pregnancy Versus Exposure Before or After Pregnancy Group Pooled RR (95% CI), I² Statistics, %"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "quality_score": 98
+}
